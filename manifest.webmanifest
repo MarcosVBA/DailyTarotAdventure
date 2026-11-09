@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "Daily Tarot Adventure",
+  "short_name": "Daily Tarot",
+  "description": "Uma mesa de tarot com diário de leituras e inspirações para RPG.",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#124c39",
+  "theme_color": "#124c39",
+  "icons": [
+    { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

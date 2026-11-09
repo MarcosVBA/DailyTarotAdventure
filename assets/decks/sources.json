@@ -1,0 +1,3987 @@
+{
+  "oswald-wirth": {
+    "mapping": {
+      "m00.jpg": "00_Le_Fou.jpg",
+      "m01.jpg": "01_Le_Bateleur.jpg",
+      "m02.jpg": "02_La_Papesse.jpg",
+      "m03.jpg": "03_L_Imperatrice.jpg",
+      "m04.jpg": "04_L_Empereur.jpg",
+      "m05.jpg": "05_Le_Pape.jpg",
+      "m06.jpg": "06_L_Amoureux.jpg",
+      "m07.jpg": "07_Le_Chariot.jpg",
+      "m08.jpg": "11_La_Force.jpg",
+      "m09.jpg": "09_L_Ermite.jpg",
+      "m10.jpg": "10_La_Roue_de_Fortune.jpg",
+      "m11.jpg": "08_La_Justice.jpg",
+      "m12.jpg": "12_Le_Pendu.jpg",
+      "m13.jpg": "13_La_Mort.jpg",
+      "m14.jpg": "14_La_Temperance.jpg",
+      "m15.jpg": "15_Le_Diable.jpg",
+      "m16.jpg": "16_Le_Feu_du_Ciel.jpg",
+      "m17.jpg": "17_Les_Etoiles.jpg",
+      "m18.jpg": "18_La_Lune.jpg",
+      "m19.jpg": "19_Le_Soleil.jpg",
+      "m20.jpg": "20_Le_Jugement.jpg",
+      "m21.jpg": "21_Le_Monde.jpg"
+    },
+    "source": {
+      "name": "Oswald Wirth Tarot",
+      "source": "Wikimedia Commons",
+      "category": "https://commons.wikimedia.org/wiki/Category:Oswald%20Wirth%20tarot%20deck",
+      "note": "Oswald Wirth's esoteric tarot (Paris, 1889), BnF scans. Major arcana only (22 cards).",
+      "card_count": 22,
+      "cards": [
+        {
+          "card": "00_Le_Fou.jpg",
+          "source_file": "00 Le Fou, Oswald Wirth Tarot Deck 1889 BnF.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:00_Le_Fou,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+          "width": 909,
+          "height": 1536
+        },
+        {
+          "card": "01_Le_Bateleur.jpg",
+          "source_file": "01 Le Bateleur, Oswald Wirth Tarot Deck 1889 BnF.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:01_Le_Bateleur,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+          "width": 910,
+          "height": 1536
+        },
+        {
+          "card": "02_La_Papesse.jpg",
+          "source_file": "02 La Papesse, Oswald Wirth Tarot Deck 1889 BnF.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:02_La_Papesse,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+          "width": 906,
+          "height": 1536
+        },
+        {
+          "card": "03_L_Imperatrice.jpg",
+          "source_file": "03 L'Imperatrice, Oswald Wirth Tarot Deck 1889 BnF.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:03_L%27Imperatrice,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+          "width": 906,
+          "height": 1536
+        },
+        {
+          "card": "04_L_Empereur.jpg",
+          "source_file": "04 L'Empereur, Oswald Wirth Tarot Deck 1889 BnF.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:04_L%27Empereur,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+          "width": 907,
+          "height": 1536
+        },
+        {
+          "card": "05_Le_Pape.jpg",
+          "source_file": "05 Le Pape, Oswald Wirth Tarot Deck 1889 BnF.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:05_Le_Pape,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+          "width": 918,
+          "height": 1536
+        },
+        {
+          "card": "06_L_Amoureux.jpg",
+          "source_file": "06 L'Amoureux, Oswald Wirth Tarot Deck 1889 BnF.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:06_L%27Amoureux,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+          "width": 917,
+          "height": 1536
+        },
+        {
+          "card": "07_Le_Chariot.jpg",
+          "source_file": "07 Le Chariot, Oswald Wirth Tarot Deck 1889 BnF.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:07_Le_Chariot,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+          "width": 893,
+          "height": 1536
+        },
+        {
+          "card": "08_La_Justice.jpg",
+          "source_file": "08 La Justice, Oswald Wirth Tarot Deck 1889 BnF.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:08_La_Justice,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+          "width": 912,
+          "height": 1536
+        },
+        {
+          "card": "09_L_Ermite.jpg",
+          "source_file": "09 L'Ermite, Oswald Wirth Tarot Deck 1889 BnF.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:09_L%27Ermite,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+          "width": 915,
+          "height": 1536
+        },
+        {
+          "card": "10_La_Roue_de_Fortune.jpg",
+          "source_file": "10 La Roue de Fortune, Oswald Wirth Tarot Deck 1889 BnF.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:10_La_Roue_de_Fortune,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+          "width": 914,
+          "height": 1536
+        },
+        {
+          "card": "11_La_Force.jpg",
+          "source_file": "11 La Force, Oswald Wirth Tarot Deck 1889 BnF.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:11_La_Force,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+          "width": 919,
+          "height": 1536
+        },
+        {
+          "card": "12_Le_Pendu.jpg",
+          "source_file": "12 Le Pendu, Oswald Wirth Tarot Deck 1889 BnF.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:12_Le_Pendu,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+          "width": 924,
+          "height": 1536
+        },
+        {
+          "card": "13_La_Mort.jpg",
+          "source_file": "13 La Mort, Oswald Wirth Tarot Deck 1889 BnF.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:13_La_Mort,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+          "width": 919,
+          "height": 1536
+        },
+        {
+          "card": "14_La_Temperance.jpg",
+          "source_file": "14 La Temperance, Oswald Wirth Tarot Deck 1889 BnF.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:14_La_Temperance,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+          "width": 912,
+          "height": 1536
+        },
+        {
+          "card": "15_Le_Diable.jpg",
+          "source_file": "15 Le Diable, Oswald Wirth Tarot Deck 1889 BnF.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:15_Le_Diable,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+          "width": 911,
+          "height": 1536
+        },
+        {
+          "card": "16_Le_Feu_du_Ciel.jpg",
+          "source_file": "16 Le Feu du Ciel, Oswald Wirth Tarot Deck 1889 BnF.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:16_Le_Feu_du_Ciel,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+          "width": 902,
+          "height": 1536
+        },
+        {
+          "card": "17_Les_Etoiles.jpg",
+          "source_file": "17 Les Etoiles, Oswald Wirth Tarot Deck 1889 BnF.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:17_Les_Etoiles,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+          "width": 916,
+          "height": 1536
+        },
+        {
+          "card": "18_La_Lune.jpg",
+          "source_file": "18 La Lune, Oswald Wirth Tarot Deck 1889 BnF.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:18_La_Lune,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+          "width": 911,
+          "height": 1536
+        },
+        {
+          "card": "19_Le_Soleil.jpg",
+          "source_file": "19 Le Soleil, Oswald Wirth Tarot Deck 1889 BnF.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:19_Le_Soleil,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+          "width": 907,
+          "height": 1536
+        },
+        {
+          "card": "20_Le_Jugement.jpg",
+          "source_file": "20 Le Jugement, Oswald Wirth Tarot Deck 1889 BnF.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:20_Le_Jugement,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+          "width": 906,
+          "height": 1536
+        },
+        {
+          "card": "21_Le_Monde.jpg",
+          "source_file": "21 Le Monde, Oswald Wirth Tarot Deck 1889 BnF.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:21_Le_Monde,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+          "width": 924,
+          "height": 1536
+        }
+      ]
+    }
+  },
+  "soimoi": {
+    "mapping": {
+      "m00.jpg": "00_Fool.jpg",
+      "m01.jpg": "01_Magician.jpg",
+      "m02.jpg": "02_High_Priestess.jpg",
+      "m03.jpg": "03_Empress.jpg",
+      "m04.jpg": "04_Emperor.jpg",
+      "m05.jpg": "05_Hierophant.jpg",
+      "m06.jpg": "06_Lovers.jpg",
+      "m07.jpg": "07_Chariot.jpg",
+      "m08.jpg": "08_Strength.jpg",
+      "m09.jpg": "09_Hermit.jpg",
+      "m10.jpg": "10_Wheel_of_Fortune.jpg",
+      "m11.jpg": "11_Justice.jpg",
+      "m12.jpg": "12_Hanged_Man.jpg",
+      "m13.jpg": "13_Death.jpg",
+      "m14.jpg": "14_Temperance.jpg",
+      "m15.jpg": "15_Devil.jpg",
+      "m16.jpg": "16_Tower.jpg",
+      "m17.jpg": "17_Star.jpg",
+      "m18.jpg": "18_Moon.jpg",
+      "m19.jpg": "19_Sun.jpg",
+      "m20.jpg": "20_Judgement.jpg",
+      "m21.jpg": "21_World.jpg",
+      "w01.jpg": "Wands01.jpg",
+      "w02.jpg": "Wands02.jpg",
+      "w03.jpg": "Wands03.jpg",
+      "w04.jpg": "Wands04.jpg",
+      "w05.jpg": "Wands05.jpg",
+      "w06.jpg": "Wands06.jpg",
+      "w07.jpg": "Wands07.jpg",
+      "w08.jpg": "Wands08.jpg",
+      "w09.jpg": "Wands09.jpg",
+      "w10.jpg": "Wands10.jpg",
+      "w11.jpg": "Wands11.jpg",
+      "w12.jpg": "Wands12.jpg",
+      "w13.jpg": "Wands13.jpg",
+      "w14.jpg": "Wands14.jpg",
+      "c01.jpg": "Cups01.jpg",
+      "c02.jpg": "Cups02.jpg",
+      "c03.jpg": "Cups03.jpg",
+      "c04.jpg": "Cups04.jpg",
+      "c05.jpg": "Cups05.jpg",
+      "c06.jpg": "Cups06.jpg",
+      "c07.jpg": "Cups07.jpg",
+      "c08.jpg": "Cups08.jpg",
+      "c09.jpg": "Cups09.jpg",
+      "c10.jpg": "Cups10.jpg",
+      "c11.jpg": "Cups11.jpg",
+      "c12.jpg": "Cups12.jpg",
+      "c13.jpg": "Cups13.jpg",
+      "c14.jpg": "Cups14.jpg",
+      "s01.jpg": "Swords01.jpg",
+      "s02.jpg": "Swords02.jpg",
+      "s03.jpg": "Swords03.jpg",
+      "s04.jpg": "Swords04.jpg",
+      "s05.jpg": "Swords05.jpg",
+      "s06.jpg": "Swords06.jpg",
+      "s07.jpg": "Swords07.jpg",
+      "s08.jpg": "Swords08.jpg",
+      "s09.jpg": "Swords09.jpg",
+      "s10.jpg": "Swords10.jpg",
+      "s11.jpg": "Swords11.jpg",
+      "s12.jpg": "Swords12.jpg",
+      "s13.jpg": "Swords13.jpg",
+      "s14.jpg": "Swords14.jpg",
+      "p01.jpg": "Pents01.jpg",
+      "p02.jpg": "Pents02.jpg",
+      "p03.jpg": "Pents03.jpg",
+      "p04.jpg": "Pents04.jpg",
+      "p05.jpg": "Pents05.jpg",
+      "p06.jpg": "Pents06.jpg",
+      "p07.jpg": "Pents07.jpg",
+      "p08.jpg": "Pents08.jpg",
+      "p09.jpg": "Pents09.jpg",
+      "p10.jpg": "Pents10.jpg",
+      "p11.jpg": "Pents11.jpg",
+      "p12.jpg": "Pents12.jpg",
+      "p13.jpg": "Pents13.jpg",
+      "p14.jpg": "Pents14.jpg"
+    },
+    "source": {
+      "license": "Soimoi Tarot Deck\nCopyright (c) 2025 Mike Koz (https://koz.tv/)\n\nThe card images in this directory (tarot/soimoi/, including all resized\nversions and generated GIFs) are licensed under the Creative Commons\nAttribution 4.0 International License (CC BY 4.0).\n\nYou are free to:\n- Share — copy and redistribute the material in any medium or format,\n  for any purpose, including commercially.\n- Adapt — remix, transform, and build upon the material for any purpose,\n  including commercially.\n\nUnder the following terms:\n- Attribution — You must give appropriate credit, provide a link to the\n  license, and indicate if changes were made. You may do so in any reasonable\n  manner, but not in any way that suggests the licensor endorses you or your\n  use.\n\nSuggested attribution:\n  \"Soimoi Tarot\" by Mike Koz (https://koz.tv/), licensed under CC BY 4.0\n  (https://creativecommons.org/licenses/by/4.0/)\n\nIn an app or website, the attribution may be placed on an About / Credits\nscreen.\n\nAbout the artwork:\nThe deck was created by Mike Koz using a generative image model. Copyright\nprotection for AI-generated images differs between jurisdictions; to the\nextent any rights in this material exist, they are licensed under CC BY 4.0.\n\nFull legal text of the license:\nhttps://creativecommons.org/licenses/by/4.0/legalcode\n"
+    }
+  },
+  "sola-busca": {
+    "mapping": {
+      "m00.jpg": "00.jpg",
+      "m01.jpg": "01.jpg",
+      "m02.jpg": "02.jpg",
+      "m03.jpg": "03.jpg",
+      "m04.jpg": "04.jpg",
+      "m05.jpg": "05.jpg",
+      "m06.jpg": "06.jpg",
+      "m07.jpg": "07.jpg",
+      "m08.jpg": "08.jpg",
+      "m09.jpg": "09.jpg",
+      "m10.jpg": "10.jpg",
+      "m11.jpg": "11.jpg",
+      "m12.jpg": "12.jpg",
+      "m13.jpg": "13.jpg",
+      "m14.jpg": "14.jpg",
+      "m15.jpg": "15.jpg",
+      "m16.jpg": "16.jpg",
+      "m17.jpg": "17.jpg",
+      "m18.jpg": "18.jpg",
+      "m19.jpg": "19.jpg",
+      "m20.jpg": "20.jpg",
+      "m21.jpg": "21.jpg",
+      "w01.jpg": "50.jpg",
+      "w02.jpg": "51.jpg",
+      "w03.jpg": "52.jpg",
+      "w04.jpg": "53.jpg",
+      "w05.jpg": "54.jpg",
+      "w06.jpg": "55.jpg",
+      "w07.jpg": "56.jpg",
+      "w08.jpg": "57.jpg",
+      "w09.jpg": "58.jpg",
+      "w10.jpg": "59.jpg",
+      "w11.jpg": "60.jpg",
+      "w12.jpg": "61.jpg",
+      "w13.jpg": "62.jpg",
+      "w14.jpg": "63.jpg",
+      "c01.jpg": "22.jpg",
+      "c02.jpg": "23.jpg",
+      "c03.jpg": "24.jpg",
+      "c04.jpg": "25.jpg",
+      "c05.jpg": "26.jpg",
+      "c06.jpg": "27.jpg",
+      "c07.jpg": "28.jpg",
+      "c08.jpg": "29.jpg",
+      "c09.jpg": "30.jpg",
+      "c10.jpg": "31.jpg",
+      "c11.jpg": "32.jpg",
+      "c12.jpg": "33.jpg",
+      "c13.jpg": "34.jpg",
+      "c14.jpg": "35.jpg",
+      "s01.jpg": "64.jpg",
+      "s02.jpg": "65.jpg",
+      "s03.jpg": "66.jpg",
+      "s04.jpg": "67.jpg",
+      "s05.jpg": "68.jpg",
+      "s06.jpg": "69.jpg",
+      "s07.jpg": "70.jpg",
+      "s08.jpg": "71.jpg",
+      "s09.jpg": "72.jpg",
+      "s10.jpg": "73.jpg",
+      "s11.jpg": "74.jpg",
+      "s12.jpg": "75.jpg",
+      "s13.jpg": "76.jpg",
+      "s14.jpg": "77.jpg",
+      "p01.jpg": "36.jpg",
+      "p02.jpg": "37.jpg",
+      "p03.jpg": "38.jpg",
+      "p04.jpg": "39.jpg",
+      "p05.jpg": "40.jpg",
+      "p06.jpg": "41.jpg",
+      "p07.jpg": "42.jpg",
+      "p08.jpg": "43.jpg",
+      "p09.jpg": "44.jpg",
+      "p10.jpg": "45.jpg",
+      "p11.jpg": "46.jpg",
+      "p12.jpg": "47.jpg",
+      "p13.jpg": "48.jpg",
+      "p14.jpg": "49.jpg"
+    },
+    "source": {
+      "name": "Sola Busca",
+      "source": "Wikimedia Commons",
+      "category": "https://commons.wikimedia.org/wiki/Category:Sola-Busca%20tarot%20deck",
+      "note": "Earliest fully-illustrated 78-card tarot (Italy, c.1491). Trumps 00-21, pips/courts 22-77; non-standard imagery.",
+      "card_count": 78,
+      "cards": [
+        {
+          "card": "00.jpg",
+          "source_file": "Sola Busca tarot card 00.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_00.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "01.jpg",
+          "source_file": "Sola Busca tarot card 01.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_01.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "02.jpg",
+          "source_file": "Sola Busca tarot card 02.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_02.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "03.jpg",
+          "source_file": "Sola Busca tarot card 03.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_03.jpg",
+          "width": 474,
+          "height": 876
+        },
+        {
+          "card": "04.jpg",
+          "source_file": "Sola Busca tarot card 04.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_04.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "05.jpg",
+          "source_file": "Sola Busca tarot card 05.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_05.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "06.jpg",
+          "source_file": "Sola Busca tarot card 06.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_06.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "07.jpg",
+          "source_file": "Sola Busca tarot card 07.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_07.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "08.jpg",
+          "source_file": "Sola Busca tarot card 08.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_08.jpg",
+          "width": 474,
+          "height": 876
+        },
+        {
+          "card": "09.jpg",
+          "source_file": "Sola Busca tarot card 09.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_09.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "10.jpg",
+          "source_file": "Sola Busca tarot card 10.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_10.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "11.jpg",
+          "source_file": "Sola Busca tarot card 11.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_11.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "12.jpg",
+          "source_file": "Sola Busca tarot card 12.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_12.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "13.jpg",
+          "source_file": "Sola Busca tarot card 13.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_13.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "14.jpg",
+          "source_file": "Sola Busca tarot card 14.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_14.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "15.jpg",
+          "source_file": "Sola Busca tarot card 15.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_15.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "16.jpg",
+          "source_file": "Sola Busca tarot card 16.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_16.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "17.jpg",
+          "source_file": "Sola Busca tarot card 17.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_17.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "18.jpg",
+          "source_file": "Sola Busca tarot card 18.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_18.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "19.jpg",
+          "source_file": "Sola Busca tarot card 19.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_19.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "20.jpg",
+          "source_file": "Sola Busca tarot card 20.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_20.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "21.jpg",
+          "source_file": "Sola Busca tarot card 21.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_21.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "22.jpg",
+          "source_file": "Sola Busca tarot card 22.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_22.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "23.jpg",
+          "source_file": "Sola Busca tarot card 23.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_23.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "24.jpg",
+          "source_file": "Sola Busca tarot card 24.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_24.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "25.jpg",
+          "source_file": "Sola Busca tarot card 25.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_25.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "26.jpg",
+          "source_file": "Sola Busca tarot card 26.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_26.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "27.jpg",
+          "source_file": "Sola Busca tarot card 27.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_27.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "28.jpg",
+          "source_file": "Sola Busca tarot card 28.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_28.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "29.jpg",
+          "source_file": "Sola Busca tarot card 29.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_29.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "30.jpg",
+          "source_file": "Sola Busca tarot card 30.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_30.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "31.jpg",
+          "source_file": "Sola Busca tarot card 31.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_31.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "32.jpg",
+          "source_file": "Sola Busca tarot card 32.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_32.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "33.jpg",
+          "source_file": "Sola Busca tarot card 33.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_33.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "34.jpg",
+          "source_file": "Sola Busca tarot card 34.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_34.jpg",
+          "width": 474,
+          "height": 876
+        },
+        {
+          "card": "35.jpg",
+          "source_file": "Sola Busca tarot card 35.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_35.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "36.jpg",
+          "source_file": "Sola Busca tarot card 36.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_36.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "37.jpg",
+          "source_file": "Sola Busca tarot card 37.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_37.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "38.jpg",
+          "source_file": "Sola Busca tarot card 38.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_38.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "39.jpg",
+          "source_file": "Sola Busca tarot card 39.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_39.jpg",
+          "width": 474,
+          "height": 876
+        },
+        {
+          "card": "40.jpg",
+          "source_file": "Sola Busca tarot card 40.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_40.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "41.jpg",
+          "source_file": "Sola Busca tarot card 41.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_41.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "42.jpg",
+          "source_file": "Sola Busca tarot card 42.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_42.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "43.jpg",
+          "source_file": "Sola Busca tarot card 43.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_43.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "44.jpg",
+          "source_file": "Sola Busca tarot card 44.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_44.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "45.jpg",
+          "source_file": "Sola Busca tarot card 45.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_45.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "46.jpg",
+          "source_file": "Sola Busca tarot card 46.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_46.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "47.jpg",
+          "source_file": "Sola Busca tarot card 47.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_47.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "48.jpg",
+          "source_file": "Sola Busca tarot card 48.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_48.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "49.jpg",
+          "source_file": "Sola Busca tarot card 49.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_49.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "50.jpg",
+          "source_file": "Sola Busca tarot card 50.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_50.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "51.jpg",
+          "source_file": "Sola Busca tarot card 51.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_51.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "52.jpg",
+          "source_file": "Sola Busca tarot card 52.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_52.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "53.jpg",
+          "source_file": "Sola Busca tarot card 53.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_53.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "54.jpg",
+          "source_file": "Sola Busca tarot card 54.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_54.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "55.jpg",
+          "source_file": "Sola Busca tarot card 55.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_55.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "56.jpg",
+          "source_file": "Sola Busca tarot card 56.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_56.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "57.jpg",
+          "source_file": "Sola Busca tarot card 57.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_57.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "58.jpg",
+          "source_file": "Sola Busca tarot card 58.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_58.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "59.jpg",
+          "source_file": "Sola Busca tarot card 59.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_59.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "60.jpg",
+          "source_file": "Sola Busca tarot card 60.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_60.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "61.jpg",
+          "source_file": "Sola Busca tarot card 61.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_61.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "62.jpg",
+          "source_file": "Sola Busca tarot card 62.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_62.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "63.jpg",
+          "source_file": "Sola Busca tarot card 63.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_63.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "64.jpg",
+          "source_file": "Sola Busca tarot card 64.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_64.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "65.jpg",
+          "source_file": "Sola Busca tarot card 65.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_65.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "66.jpg",
+          "source_file": "Sola Busca tarot card 66.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_66.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "67.jpg",
+          "source_file": "Sola Busca tarot card 67.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_67.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "68.jpg",
+          "source_file": "Sola Busca tarot card 68.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_68.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "69.jpg",
+          "source_file": "Sola Busca tarot card 69.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_69.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "70.jpg",
+          "source_file": "Sola Busca tarot card 70.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_70.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "71.jpg",
+          "source_file": "Sola Busca tarot card 71.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_71.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "72.jpg",
+          "source_file": "Sola Busca tarot card 72.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_72.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "73.jpg",
+          "source_file": "Sola Busca tarot card 73.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_73.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "74.jpg",
+          "source_file": "Sola Busca tarot card 74.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_74.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "75.jpg",
+          "source_file": "Sola Busca tarot card 75.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_75.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "76.jpg",
+          "source_file": "Sola Busca tarot card 76.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_76.jpg",
+          "width": 474,
+          "height": 877
+        },
+        {
+          "card": "77.jpg",
+          "source_file": "Sola Busca tarot card 77.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_77.jpg",
+          "width": 474,
+          "height": 877
+        }
+      ]
+    }
+  },
+  "tarot-nouveau": {
+    "mapping": {
+      "m00.jpg": "00_Excuse.jpg",
+      "m01.jpg": "01_Atout.jpg",
+      "m02.jpg": "02_Atout.jpg",
+      "m03.jpg": "03_Atout.jpg",
+      "m04.jpg": "04_Atout.jpg",
+      "m05.jpg": "05_Atout.jpg",
+      "m06.jpg": "06_Atout.jpg",
+      "m07.jpg": "07_Atout.jpg",
+      "m08.jpg": "08_Atout.jpg",
+      "m09.jpg": "09_Atout.jpg",
+      "m10.jpg": "10_Atout.jpg",
+      "m11.jpg": "11_Atout.jpg",
+      "m12.jpg": "12_Atout.jpg",
+      "m13.jpg": "13_Atout.jpg",
+      "m14.jpg": "14_Atout.jpg",
+      "m15.jpg": "15_Atout.jpg",
+      "m16.jpg": "16_Atout.jpg",
+      "m17.jpg": "17_Atout.jpg",
+      "m18.jpg": "18_Atout.jpg",
+      "m19.jpg": "19_Atout.jpg",
+      "m20.jpg": "20_Atout.jpg",
+      "m21.jpg": "21_Atout.jpg",
+      "w01.jpg": "Clubs01.jpg",
+      "w02.jpg": "Clubs02.jpg",
+      "w03.jpg": "Clubs03.jpg",
+      "w04.jpg": "Clubs04.jpg",
+      "w05.jpg": "Clubs05.jpg",
+      "w06.jpg": "Clubs06.jpg",
+      "w07.jpg": "Clubs07.jpg",
+      "w08.jpg": "Clubs08.jpg",
+      "w09.jpg": "Clubs09.jpg",
+      "w10.jpg": "Clubs10.jpg",
+      "w11.jpg": "Clubs11.jpg",
+      "w12.jpg": "Clubs12.jpg",
+      "w13.jpg": "Clubs13.jpg",
+      "w14.jpg": "Clubs14.jpg",
+      "c01.jpg": "Hearts01.jpg",
+      "c02.jpg": "Hearts02.jpg",
+      "c03.jpg": "Hearts03.jpg",
+      "c04.jpg": "Hearts04.jpg",
+      "c05.jpg": "Hearts05.jpg",
+      "c06.jpg": "Hearts06.jpg",
+      "c07.jpg": "Hearts07.jpg",
+      "c08.jpg": "Hearts08.jpg",
+      "c09.jpg": "Hearts09.jpg",
+      "c10.jpg": "Hearts10.jpg",
+      "c11.jpg": "Hearts11.jpg",
+      "c12.jpg": "Hearts12.jpg",
+      "c13.jpg": "Hearts13.jpg",
+      "c14.jpg": "Hearts14.jpg",
+      "s01.jpg": "Spades01.jpg",
+      "s02.jpg": "Spades02.jpg",
+      "s03.jpg": "Spades03.jpg",
+      "s04.jpg": "Spades04.jpg",
+      "s05.jpg": "Spades05.jpg",
+      "s06.jpg": "Spades06.jpg",
+      "s07.jpg": "Spades07.jpg",
+      "s08.jpg": "Spades08.jpg",
+      "s09.jpg": "Spades09.jpg",
+      "s10.jpg": "Spades10.jpg",
+      "s11.jpg": "Spades11.jpg",
+      "s12.jpg": "Spades12.jpg",
+      "s13.jpg": "Spades13.jpg",
+      "s14.jpg": "Spades14.jpg",
+      "p01.jpg": "Diamonds01.jpg",
+      "p02.jpg": "Diamonds02.jpg",
+      "p03.jpg": "Diamonds03.jpg",
+      "p04.jpg": "Diamonds04.jpg",
+      "p05.jpg": "Diamonds05.jpg",
+      "p06.jpg": "Diamonds06.jpg",
+      "p07.jpg": "Diamonds07.jpg",
+      "p08.jpg": "Diamonds08.jpg",
+      "p09.jpg": "Diamonds09.jpg",
+      "p10.jpg": "Diamonds10.jpg",
+      "p11.jpg": "Diamonds11.jpg",
+      "p12.jpg": "Diamonds12.jpg",
+      "p13.jpg": "Diamonds13.jpg",
+      "p14.jpg": "Diamonds14.jpg"
+    },
+    "source": {
+      "name": "Tarot Nouveau",
+      "source": "Wikimedia Commons",
+      "category": "https://commons.wikimedia.org/wiki/Category:Tarot%20nouveau%20-%20Grimaud%20-%201898",
+      "note": "French-suited game tarot (Grimaud, 1898), BnF scans. Trumps 01-21 are genre scenes, 00 is the Excuse; suits Hearts/Diamonds/Clubs/Spades.",
+      "card_count": 78,
+      "cards": [
+        {
+          "card": "00_Excuse.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Trumps - Excuse.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_Excuse.jpg",
+          "width": 1536,
+          "height": 2663
+        },
+        {
+          "card": "01_Atout.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Trumps - 01.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_01.jpg",
+          "width": 1494,
+          "height": 2645
+        },
+        {
+          "card": "02_Atout.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Trumps - 02.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_02.jpg",
+          "width": 1494,
+          "height": 2639
+        },
+        {
+          "card": "03_Atout.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Trumps - 03.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_03.jpg",
+          "width": 1494,
+          "height": 2639
+        },
+        {
+          "card": "04_Atout.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Trumps - 04.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_04.jpg",
+          "width": 1488,
+          "height": 2645
+        },
+        {
+          "card": "05_Atout.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Trumps - 05.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_05.jpg",
+          "width": 1488,
+          "height": 2642
+        },
+        {
+          "card": "06_Atout.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Trumps - 06.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_06.jpg",
+          "width": 1488,
+          "height": 2642
+        },
+        {
+          "card": "07_Atout.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Trumps - 07.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_07.jpg",
+          "width": 1488,
+          "height": 2654
+        },
+        {
+          "card": "08_Atout.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Trumps - 08.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_08.jpg",
+          "width": 1488,
+          "height": 2645
+        },
+        {
+          "card": "09_Atout.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Trumps - 09.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_09.jpg",
+          "width": 1488,
+          "height": 2642
+        },
+        {
+          "card": "10_Atout.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Trumps - 10.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_10.jpg",
+          "width": 1488,
+          "height": 2642
+        },
+        {
+          "card": "11_Atout.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Trumps - 11.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_11.jpg",
+          "width": 1482,
+          "height": 2642
+        },
+        {
+          "card": "12_Atout.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Trumps - 12.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_12.jpg",
+          "width": 1482,
+          "height": 2642
+        },
+        {
+          "card": "13_Atout.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Trumps - 13.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_13.jpg",
+          "width": 1488,
+          "height": 2642
+        },
+        {
+          "card": "14_Atout.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Trumps - 14.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_14.jpg",
+          "width": 1503,
+          "height": 2664
+        },
+        {
+          "card": "15_Atout.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Trumps - 15.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_15.jpg",
+          "width": 1497,
+          "height": 2664
+        },
+        {
+          "card": "16_Atout.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Trumps - 16.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_16.jpg",
+          "width": 1491,
+          "height": 2646
+        },
+        {
+          "card": "17_Atout.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Trumps - 17.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_17.jpg",
+          "width": 1485,
+          "height": 2637
+        },
+        {
+          "card": "18_Atout.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Trumps - 18.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_18.jpg",
+          "width": 1500,
+          "height": 2643
+        },
+        {
+          "card": "19_Atout.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Trumps - 19.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_19.jpg",
+          "width": 1485,
+          "height": 2643
+        },
+        {
+          "card": "20_Atout.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Trumps - 20.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_20.jpg",
+          "width": 1497,
+          "height": 2646
+        },
+        {
+          "card": "21_Atout.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Trumps - 21.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_21.jpg",
+          "width": 1497,
+          "height": 2646
+        },
+        {
+          "card": "Clubs01.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Clubs - Ace.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Clubs_-_Ace.jpg",
+          "width": 1510,
+          "height": 2673
+        },
+        {
+          "card": "Clubs02.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Clubs - 02.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Clubs_-_02.jpg",
+          "width": 1507,
+          "height": 2673
+        },
+        {
+          "card": "Clubs03.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Clubs - 03.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Clubs_-_03.jpg",
+          "width": 1543,
+          "height": 2670
+        },
+        {
+          "card": "Clubs04.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Clubs - 04.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Clubs_-_04.jpg",
+          "width": 1516,
+          "height": 2670
+        },
+        {
+          "card": "Clubs05.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Clubs - 05.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Clubs_-_05.jpg",
+          "width": 1486,
+          "height": 2661
+        },
+        {
+          "card": "Clubs06.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Clubs - 06.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Clubs_-_06.jpg",
+          "width": 1486,
+          "height": 2661
+        },
+        {
+          "card": "Clubs07.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Clubs - 07.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Clubs_-_07.jpg",
+          "width": 1486,
+          "height": 2679
+        },
+        {
+          "card": "Clubs08.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Clubs - 08.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Clubs_-_08.jpg",
+          "width": 1501,
+          "height": 2679
+        },
+        {
+          "card": "Clubs09.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Clubs - 09.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Clubs_-_09.jpg",
+          "width": 1504,
+          "height": 2679
+        },
+        {
+          "card": "Clubs10.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Clubs - 10.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Clubs_-_10.jpg",
+          "width": 1504,
+          "height": 2679
+        },
+        {
+          "card": "Clubs11.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Clubs - Jack.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Clubs_-_Jack.jpg",
+          "width": 1507,
+          "height": 2673
+        },
+        {
+          "card": "Clubs12.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Clubs - Knight.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Clubs_-_Knight.jpg",
+          "width": 1525,
+          "height": 2661
+        },
+        {
+          "card": "Clubs13.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Clubs - Queen.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Clubs_-_Queen.jpg",
+          "width": 1525,
+          "height": 2676
+        },
+        {
+          "card": "Clubs14.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Clubs - King.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Clubs_-_King.jpg",
+          "width": 1525,
+          "height": 2676
+        },
+        {
+          "card": "Cover.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Back side.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Back_side.jpg",
+          "width": 1498,
+          "height": 2640
+        },
+        {
+          "card": "Diamonds01.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Diamonds - Ace.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Diamonds_-_Ace.jpg",
+          "width": 1510,
+          "height": 2670
+        },
+        {
+          "card": "Diamonds02.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Diamonds - 02.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Diamonds_-_02.jpg",
+          "width": 1540,
+          "height": 2715
+        },
+        {
+          "card": "Diamonds03.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Diamonds - 03.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Diamonds_-_03.jpg",
+          "width": 1546,
+          "height": 2724
+        },
+        {
+          "card": "Diamonds04.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Diamonds - 04.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Diamonds_-_04.jpg",
+          "width": 1540,
+          "height": 2676
+        },
+        {
+          "card": "Diamonds05.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Diamonds - 05.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Diamonds_-_05.jpg",
+          "width": 1510,
+          "height": 2676
+        },
+        {
+          "card": "Diamonds06.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Diamonds - 06.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Diamonds_-_06.jpg",
+          "width": 1564,
+          "height": 2700
+        },
+        {
+          "card": "Diamonds07.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Diamonds - 07.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Diamonds_-_07.jpg",
+          "width": 1561,
+          "height": 2673
+        },
+        {
+          "card": "Diamonds08.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Diamonds - 08.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Diamonds_-_08.jpg",
+          "width": 1549,
+          "height": 2703
+        },
+        {
+          "card": "Diamonds09.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Diamonds - 09.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Diamonds_-_09.jpg",
+          "width": 1552,
+          "height": 2664
+        },
+        {
+          "card": "Diamonds10.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Diamonds - 10.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Diamonds_-_10.jpg",
+          "width": 1531,
+          "height": 2670
+        },
+        {
+          "card": "Diamonds11.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Diamonds - Jack.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Diamonds_-_Jack.jpg",
+          "width": 1486,
+          "height": 2652
+        },
+        {
+          "card": "Diamonds12.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Diamonds - Knight.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Diamonds_-_Knight.jpg",
+          "width": 1534,
+          "height": 2679
+        },
+        {
+          "card": "Diamonds13.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Diamonds - Queen.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Diamonds_-_Queen.jpg",
+          "width": 1531,
+          "height": 2670
+        },
+        {
+          "card": "Diamonds14.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Diamonds - King.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Diamonds_-_King.jpg",
+          "width": 1516,
+          "height": 2688
+        },
+        {
+          "card": "Hearts01.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Hearts - Ace.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Hearts_-_Ace.jpg",
+          "width": 1536,
+          "height": 2673
+        },
+        {
+          "card": "Hearts02.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Hearts - 02.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Hearts_-_02.jpg",
+          "width": 1494,
+          "height": 2649
+        },
+        {
+          "card": "Hearts03.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Hearts - 03.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Hearts_-_03.jpg",
+          "width": 1488,
+          "height": 2655
+        },
+        {
+          "card": "Hearts04.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Hearts - 04.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Hearts_-_04.jpg",
+          "width": 1482,
+          "height": 2649
+        },
+        {
+          "card": "Hearts05.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Hearts - 05.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Hearts_-_05.jpg",
+          "width": 1509,
+          "height": 2679
+        },
+        {
+          "card": "Hearts06.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Hearts - 06.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Hearts_-_06.jpg",
+          "width": 1581,
+          "height": 2703
+        },
+        {
+          "card": "Hearts07.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Hearts - 07.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Hearts_-_07.jpg",
+          "width": 1569,
+          "height": 2706
+        },
+        {
+          "card": "Hearts08.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Hearts - 08.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Hearts_-_08.jpg",
+          "width": 1557,
+          "height": 2694
+        },
+        {
+          "card": "Hearts09.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Hearts - 09.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Hearts_-_09.jpg",
+          "width": 1533,
+          "height": 2685
+        },
+        {
+          "card": "Hearts10.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Hearts - 10.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Hearts_-_10.jpg",
+          "width": 1521,
+          "height": 2685
+        },
+        {
+          "card": "Hearts11.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Hearts - Jack.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Hearts_-_Jack.jpg",
+          "width": 1497,
+          "height": 2643
+        },
+        {
+          "card": "Hearts12.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Hearts - Knight.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Hearts_-_Knight.jpg",
+          "width": 1482,
+          "height": 2646
+        },
+        {
+          "card": "Hearts13.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Hearts - Queen.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Hearts_-_Queen.jpg",
+          "width": 1491,
+          "height": 2649
+        },
+        {
+          "card": "Hearts14.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Hearts - King.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Hearts_-_King.jpg",
+          "width": 1491,
+          "height": 2649
+        },
+        {
+          "card": "Spades01.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Spades - Ace.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Spades_-_Ace.jpg",
+          "width": 1494,
+          "height": 2658
+        },
+        {
+          "card": "Spades02.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Spades - 02.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Spades_-_02.jpg",
+          "width": 1485,
+          "height": 2646
+        },
+        {
+          "card": "Spades03.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Spades - 03.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Spades_-_03.jpg",
+          "width": 1506,
+          "height": 2652
+        },
+        {
+          "card": "Spades04.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Spades - 04.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Spades_-_04.jpg",
+          "width": 1488,
+          "height": 2652
+        },
+        {
+          "card": "Spades05.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Spades - 05.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Spades_-_05.jpg",
+          "width": 1488,
+          "height": 2652
+        },
+        {
+          "card": "Spades06.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Spades - 06.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Spades_-_06.jpg",
+          "width": 1488,
+          "height": 2652
+        },
+        {
+          "card": "Spades07.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Spades - 07.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Spades_-_07.jpg",
+          "width": 1494,
+          "height": 2652
+        },
+        {
+          "card": "Spades08.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Spades - 08.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Spades_-_08.jpg",
+          "width": 1494,
+          "height": 2643
+        },
+        {
+          "card": "Spades09.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Spades - 09.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Spades_-_09.jpg",
+          "width": 1485,
+          "height": 2646
+        },
+        {
+          "card": "Spades10.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Spades - 10.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Spades_-_10.jpg",
+          "width": 1491,
+          "height": 2652
+        },
+        {
+          "card": "Spades11.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Spades - Jack.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Spades_-_Jack.jpg",
+          "width": 1488,
+          "height": 2649
+        },
+        {
+          "card": "Spades12.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Spades - Knight.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Spades_-_Knight.jpg",
+          "width": 1488,
+          "height": 2649
+        },
+        {
+          "card": "Spades13.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Spades - Queen.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Spades_-_Queen.jpg",
+          "width": 1518,
+          "height": 2667
+        },
+        {
+          "card": "Spades14.jpg",
+          "source_file": "Tarot nouveau - Grimaud - 1898 - Spades - King.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Spades_-_King.jpg",
+          "width": 1485,
+          "height": 2646
+        }
+      ]
+    }
+  },
+  "vieville": {
+    "mapping": {
+      "m00.jpg": "00_Le_Mat.jpg",
+      "m01.jpg": "01_Le_Bateleur.jpg",
+      "m02.jpg": "02_La_Papesse.jpg",
+      "m03.jpg": "03_L_Imperatrice.jpg",
+      "m04.jpg": "04_L_Empereur.jpg",
+      "m05.jpg": "05_Le_Pape.jpg",
+      "m06.jpg": "06_L_Amoureux.jpg",
+      "m07.jpg": "08_Le_Chariot.jpg",
+      "m08.jpg": "09_La_Force.jpg",
+      "m09.jpg": "11_L_Ermite.jpg",
+      "m10.jpg": "10_La_Roue_de_Fortune.jpg",
+      "m11.jpg": "07_La_Justice.jpg",
+      "m12.jpg": "12_Le_Pendu.jpg",
+      "m13.jpg": "13_La_Mort.jpg",
+      "m14.jpg": "14_Temperance.jpg",
+      "m15.jpg": "15_Le_Diable.jpg",
+      "m16.jpg": "16_La_Maison_Dieu.jpg",
+      "m17.jpg": "17_L_Etoile.jpg",
+      "m18.jpg": "18_La_Lune.jpg",
+      "m19.jpg": "19_Le_Soleil.jpg",
+      "m20.jpg": "20_Le_Jugement.jpg",
+      "m21.jpg": "21_Le_Monde.jpg",
+      "w01.jpg": "Wands01.jpg",
+      "w02.jpg": "Wands02.jpg",
+      "w03.jpg": "Wands03.jpg",
+      "w04.jpg": "Wands04.jpg",
+      "w05.jpg": "Wands05.jpg",
+      "w06.jpg": "Wands06.jpg",
+      "w07.jpg": "Wands07.jpg",
+      "w08.jpg": "Wands08.jpg",
+      "w09.jpg": "Wands09.jpg",
+      "w10.jpg": "Wands10.jpg",
+      "w11.jpg": "Wands11.jpg",
+      "w12.jpg": "Wands12.jpg",
+      "w13.jpg": "Wands13.jpg",
+      "w14.jpg": "Wands14.jpg",
+      "c01.jpg": "Cups01.jpg",
+      "c02.jpg": "Cups02.jpg",
+      "c03.jpg": "Cups03.jpg",
+      "c04.jpg": "Cups04.jpg",
+      "c05.jpg": "Cups05.jpg",
+      "c06.jpg": "Cups06.jpg",
+      "c07.jpg": "Cups07.jpg",
+      "c08.jpg": "Cups08.jpg",
+      "c09.jpg": "Cups09.jpg",
+      "c10.jpg": "Cups10.jpg",
+      "c11.jpg": "Cups11.jpg",
+      "c12.jpg": "Cups12.jpg",
+      "c13.jpg": "Cups13.jpg",
+      "c14.jpg": "Cups14.jpg",
+      "s01.jpg": "Swords01.jpg",
+      "s02.jpg": "Swords02.jpg",
+      "s03.jpg": "Swords03.jpg",
+      "s04.jpg": "Swords04.jpg",
+      "s05.jpg": "Swords05.jpg",
+      "s06.jpg": "Swords06.jpg",
+      "s07.jpg": "Swords07.jpg",
+      "s08.jpg": "Swords08.jpg",
+      "s09.jpg": "Swords09.jpg",
+      "s10.jpg": "Swords10.jpg",
+      "s11.jpg": "Swords11.jpg",
+      "s12.jpg": "Swords12.jpg",
+      "s13.jpg": "Swords13.jpg",
+      "s14.jpg": "Swords14.jpg",
+      "p01.jpg": "Pents01.jpg",
+      "p02.jpg": "Pents02.jpg",
+      "p03.jpg": "Pents03.jpg",
+      "p04.jpg": "Pents04.jpg",
+      "p05.jpg": "Pents05.jpg",
+      "p06.jpg": "Pents06.jpg",
+      "p07.jpg": "Pents07.jpg",
+      "p08.jpg": "Pents08.jpg",
+      "p09.jpg": "Pents09.jpg",
+      "p10.jpg": "Pents10.jpg",
+      "p11.jpg": "Pents11.jpg",
+      "p12.jpg": "Pents12.jpg",
+      "p13.jpg": "Pents13.jpg",
+      "p14.jpg": "Pents14.jpg"
+    },
+    "source": {
+      "name": "Tarot de Viéville",
+      "source": "Wikimedia Commons",
+      "category": "https://commons.wikimedia.org/wiki/Category:Jeu%20de%20tarot%20%C3%A0%20enseignes%20italiennes%20dit%20%22tarot%20Vi%C3%A9ville%22%20-%20jeu%20de%20cartes%2C%20estampe%20-%20btv1b10510963k",
+      "note": "Jacques Viéville's tarot (Paris, c.1650), BnF scans. Printed trump order differs from Marseille: VII Justice, VIII Chariot, IX Force, XI Hermit.",
+      "card_count": 78,
+      "cards": [
+        {
+          "card": "00_Le_Mat.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (101 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(101_of_156).jpg",
+          "width": 1735,
+          "height": 3051
+        },
+        {
+          "card": "01_Le_Bateleur.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (001 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(001_of_156).jpg",
+          "width": 1706,
+          "height": 3026
+        },
+        {
+          "card": "02_La_Papesse.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (003 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(003_of_156).jpg",
+          "width": 1700,
+          "height": 3023
+        },
+        {
+          "card": "03_L_Imperatrice.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (005 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(005_of_156).jpg",
+          "width": 1721,
+          "height": 3044
+        },
+        {
+          "card": "04_L_Empereur.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (007 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(007_of_156).jpg",
+          "width": 1709,
+          "height": 3041
+        },
+        {
+          "card": "05_Le_Pape.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (009 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(009_of_156).jpg",
+          "width": 1697,
+          "height": 3041
+        },
+        {
+          "card": "06_L_Amoureux.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (011 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(011_of_156).jpg",
+          "width": 1691,
+          "height": 3041
+        },
+        {
+          "card": "07_La_Justice.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (013 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(013_of_156).jpg",
+          "width": 1745,
+          "height": 3047
+        },
+        {
+          "card": "08_Le_Chariot.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (015 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(015_of_156).jpg",
+          "width": 1706,
+          "height": 3041
+        },
+        {
+          "card": "09_La_Force.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (017 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(017_of_156).jpg",
+          "width": 1700,
+          "height": 3047
+        },
+        {
+          "card": "10_La_Roue_de_Fortune.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (019 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(019_of_156).jpg",
+          "width": 1729,
+          "height": 3057
+        },
+        {
+          "card": "11_L_Ermite.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (021 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(021_of_156).jpg",
+          "width": 1735,
+          "height": 3054
+        },
+        {
+          "card": "12_Le_Pendu.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (023 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(023_of_156).jpg",
+          "width": 1717,
+          "height": 3060
+        },
+        {
+          "card": "13_La_Mort.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (025 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(025_of_156).jpg",
+          "width": 1702,
+          "height": 3051
+        },
+        {
+          "card": "14_Temperance.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (027 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(027_of_156).jpg",
+          "width": 1714,
+          "height": 3042
+        },
+        {
+          "card": "15_Le_Diable.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (029 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(029_of_156).jpg",
+          "width": 1708,
+          "height": 3027
+        },
+        {
+          "card": "16_La_Maison_Dieu.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (031 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(031_of_156).jpg",
+          "width": 1708,
+          "height": 3033
+        },
+        {
+          "card": "17_L_Etoile.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (033 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(033_of_156).jpg",
+          "width": 1687,
+          "height": 3039
+        },
+        {
+          "card": "18_La_Lune.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (035 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(035_of_156).jpg",
+          "width": 1705,
+          "height": 3024
+        },
+        {
+          "card": "19_Le_Soleil.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (037 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(037_of_156).jpg",
+          "width": 1714,
+          "height": 3036
+        },
+        {
+          "card": "20_Le_Jugement.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (039 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(039_of_156).jpg",
+          "width": 1726,
+          "height": 3027
+        },
+        {
+          "card": "21_Le_Monde.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (041 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(041_of_156).jpg",
+          "width": 1750,
+          "height": 3033
+        },
+        {
+          "card": "Cover.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (002 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(002_of_156).jpg",
+          "width": 1704,
+          "height": 3028
+        },
+        {
+          "card": "Cups01.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (129 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(129_of_156).jpg",
+          "width": 1675,
+          "height": 3066
+        },
+        {
+          "card": "Cups02.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (131 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(131_of_156).jpg",
+          "width": 1687,
+          "height": 3051
+        },
+        {
+          "card": "Cups03.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (133 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(133_of_156).jpg",
+          "width": 1633,
+          "height": 3021
+        },
+        {
+          "card": "Cups04.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (135 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(135_of_156).jpg",
+          "width": 1732,
+          "height": 3033
+        },
+        {
+          "card": "Cups05.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (137 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(137_of_156).jpg",
+          "width": 1705,
+          "height": 3048
+        },
+        {
+          "card": "Cups06.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (139 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(139_of_156).jpg",
+          "width": 1681,
+          "height": 3015
+        },
+        {
+          "card": "Cups07.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (141 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(141_of_156).jpg",
+          "width": 1708,
+          "height": 3042
+        },
+        {
+          "card": "Cups08.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (143 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(143_of_156).jpg",
+          "width": 1690,
+          "height": 3045
+        },
+        {
+          "card": "Cups09.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (145 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(145_of_156).jpg",
+          "width": 1690,
+          "height": 2988
+        },
+        {
+          "card": "Cups10.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (147 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(147_of_156).jpg",
+          "width": 1681,
+          "height": 3051
+        },
+        {
+          "card": "Cups11.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (155 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(155_of_156).jpg",
+          "width": 1702,
+          "height": 3027
+        },
+        {
+          "card": "Cups12.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (153 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(153_of_156).jpg",
+          "width": 1696,
+          "height": 3051
+        },
+        {
+          "card": "Cups13.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (151 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(151_of_156).jpg",
+          "width": 1717,
+          "height": 3003
+        },
+        {
+          "card": "Cups14.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (149 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(149_of_156).jpg",
+          "width": 1699,
+          "height": 3036
+        },
+        {
+          "card": "Pents01.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (073 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(073_of_156).jpg",
+          "width": 1687,
+          "height": 3051
+        },
+        {
+          "card": "Pents02.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (075 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(075_of_156).jpg",
+          "width": 1699,
+          "height": 3006
+        },
+        {
+          "card": "Pents03.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (077 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(077_of_156).jpg",
+          "width": 1726,
+          "height": 3018
+        },
+        {
+          "card": "Pents04.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (079 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(079_of_156).jpg",
+          "width": 1708,
+          "height": 3018
+        },
+        {
+          "card": "Pents05.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (081 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(081_of_156).jpg",
+          "width": 1708,
+          "height": 3072
+        },
+        {
+          "card": "Pents06.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (083 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(083_of_156).jpg",
+          "width": 1717,
+          "height": 3045
+        },
+        {
+          "card": "Pents07.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (085 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(085_of_156).jpg",
+          "width": 1693,
+          "height": 3051
+        },
+        {
+          "card": "Pents08.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (087 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(087_of_156).jpg",
+          "width": 1777,
+          "height": 3000
+        },
+        {
+          "card": "Pents09.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (089 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(089_of_156).jpg",
+          "width": 1777,
+          "height": 3066
+        },
+        {
+          "card": "Pents10.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (091 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(091_of_156).jpg",
+          "width": 1735,
+          "height": 3084
+        },
+        {
+          "card": "Pents11.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (099 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(099_of_156).jpg",
+          "width": 1717,
+          "height": 3000
+        },
+        {
+          "card": "Pents12.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (097 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(097_of_156).jpg",
+          "width": 1690,
+          "height": 3054
+        },
+        {
+          "card": "Pents13.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (095 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(095_of_156).jpg",
+          "width": 1738,
+          "height": 3036
+        },
+        {
+          "card": "Pents14.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (093 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(093_of_156).jpg",
+          "width": 1696,
+          "height": 3024
+        },
+        {
+          "card": "Swords01.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (053 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(053_of_156).jpg",
+          "width": 1714,
+          "height": 3090
+        },
+        {
+          "card": "Swords02.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (057 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(057_of_156).jpg",
+          "width": 1699,
+          "height": 3018
+        },
+        {
+          "card": "Swords03.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (055 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(055_of_156).jpg",
+          "width": 1708,
+          "height": 3054
+        },
+        {
+          "card": "Swords04.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (059 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(059_of_156).jpg",
+          "width": 1705,
+          "height": 3012
+        },
+        {
+          "card": "Swords05.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (061 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(061_of_156).jpg",
+          "width": 1705,
+          "height": 3015
+        },
+        {
+          "card": "Swords06.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (063 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(063_of_156).jpg",
+          "width": 1672,
+          "height": 3003
+        },
+        {
+          "card": "Swords07.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (065 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(065_of_156).jpg",
+          "width": 1696,
+          "height": 3042
+        },
+        {
+          "card": "Swords08.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (067 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(067_of_156).jpg",
+          "width": 1768,
+          "height": 3024
+        },
+        {
+          "card": "Swords09.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (069 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(069_of_156).jpg",
+          "width": 1738,
+          "height": 3063
+        },
+        {
+          "card": "Swords10.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (071 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(071_of_156).jpg",
+          "width": 1702,
+          "height": 3036
+        },
+        {
+          "card": "Swords11.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (049 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(049_of_156).jpg",
+          "width": 1696,
+          "height": 3051
+        },
+        {
+          "card": "Swords12.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (047 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(047_of_156).jpg",
+          "width": 1684,
+          "height": 3033
+        },
+        {
+          "card": "Swords13.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (045 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(045_of_156).jpg",
+          "width": 1699,
+          "height": 3042
+        },
+        {
+          "card": "Swords14.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (043 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(043_of_156).jpg",
+          "width": 1699,
+          "height": 3024
+        },
+        {
+          "card": "Wands01.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (051 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(051_of_156).jpg",
+          "width": 1741,
+          "height": 3060
+        },
+        {
+          "card": "Wands02.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (103 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(103_of_156).jpg",
+          "width": 1717,
+          "height": 3051
+        },
+        {
+          "card": "Wands03.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (105 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(105_of_156).jpg",
+          "width": 1726,
+          "height": 3051
+        },
+        {
+          "card": "Wands04.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (107 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(107_of_156).jpg",
+          "width": 1723,
+          "height": 3030
+        },
+        {
+          "card": "Wands05.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (109 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(109_of_156).jpg",
+          "width": 1723,
+          "height": 3024
+        },
+        {
+          "card": "Wands06.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (111 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(111_of_156).jpg",
+          "width": 1708,
+          "height": 3030
+        },
+        {
+          "card": "Wands07.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (113 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(113_of_156).jpg",
+          "width": 1705,
+          "height": 3057
+        },
+        {
+          "card": "Wands08.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (115 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(115_of_156).jpg",
+          "width": 1723,
+          "height": 3051
+        },
+        {
+          "card": "Wands09.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (117 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(117_of_156).jpg",
+          "width": 1723,
+          "height": 3081
+        },
+        {
+          "card": "Wands10.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (119 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(119_of_156).jpg",
+          "width": 1699,
+          "height": 3057
+        },
+        {
+          "card": "Wands11.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (127 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(127_of_156).jpg",
+          "width": 1693,
+          "height": 3066
+        },
+        {
+          "card": "Wands12.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (125 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(125_of_156).jpg",
+          "width": 1693,
+          "height": 3048
+        },
+        {
+          "card": "Wands13.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (123 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(123_of_156).jpg",
+          "width": 1693,
+          "height": 3039
+        },
+        {
+          "card": "Wands14.jpg",
+          "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (121 of 156).jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(121_of_156).jpg",
+          "width": 1717,
+          "height": 3009
+        }
+      ]
+    }
+  },
+  "visconti-sforza": {
+    "mapping": {
+      "m00.jpg": "00_Fool.jpg",
+      "m01.jpg": "01_Magician.jpg",
+      "m02.jpg": "02_High_Priestess.jpg",
+      "m03.jpg": "03_Empress.jpg",
+      "m04.jpg": "04_Emperor.jpg",
+      "m05.jpg": "05_Hierophant.jpg",
+      "m06.jpg": "06_Lovers.jpg",
+      "m07.jpg": "07_Chariot.jpg",
+      "m08.jpg": "11_Strength.jpg",
+      "m09.jpg": "09_Hermit.jpg",
+      "m10.jpg": "10_Wheel_of_Fortune.jpg",
+      "m11.jpg": "08_Justice.jpg",
+      "m12.jpg": "12_Hanged_Man.jpg",
+      "m13.jpg": "13_Death.jpg",
+      "m14.jpg": "14_Temperance.jpg",
+      "m17.jpg": "17_Star.jpg",
+      "m18.jpg": "18_Moon.jpg",
+      "m19.jpg": "19_Sun.jpg",
+      "m20.jpg": "20_Judgement.jpg",
+      "m21.jpg": "21_World.jpg",
+      "w01.jpg": "Wands01.jpg",
+      "w02.jpg": "Wands02.jpg",
+      "w03.jpg": "Wands03.jpg",
+      "w04.jpg": "Wands04.jpg",
+      "w05.jpg": "Wands05.jpg",
+      "w06.jpg": "Wands06.jpg",
+      "w07.jpg": "Wands07.jpg",
+      "w08.jpg": "Wands08.jpg",
+      "w09.jpg": "Wands09.jpg",
+      "w10.jpg": "Wands10.jpg",
+      "w11.jpg": "Wands11.jpg",
+      "w12.jpg": "Wands12.jpg",
+      "w13.jpg": "Wands13.jpg",
+      "w14.jpg": "Wands14.jpg",
+      "c01.jpg": "Cups01.jpg",
+      "c02.jpg": "Cups02.jpg",
+      "c03.jpg": "Cups03.jpg",
+      "c04.jpg": "Cups04.jpg",
+      "c05.jpg": "Cups05.jpg",
+      "c06.jpg": "Cups06.jpg",
+      "c07.jpg": "Cups07.jpg",
+      "c08.jpg": "Cups08.jpg",
+      "c09.jpg": "Cups09.jpg",
+      "c10.jpg": "Cups10.jpg",
+      "c11.jpg": "Cups11.jpg",
+      "c12.jpg": "Cups12.jpg",
+      "c13.jpg": "Cups13.jpg",
+      "s01.jpg": "Swords01.jpg",
+      "s02.jpg": "Swords02.jpg",
+      "s04.jpg": "Swords04.jpg",
+      "s05.jpg": "Swords05.jpg",
+      "s06.jpg": "Swords06.jpg",
+      "s07.jpg": "Swords07.jpg",
+      "s08.jpg": "Swords08.jpg",
+      "s09.jpg": "Swords09.jpg",
+      "s10.jpg": "Swords10.jpg",
+      "s11.jpg": "Swords11.jpg",
+      "s12.jpg": "Swords12.jpg",
+      "s13.jpg": "Swords13.jpg",
+      "s14.jpg": "Swords14.jpg",
+      "p01.jpg": "Pents01.jpg",
+      "p02.jpg": "Pents02.jpg",
+      "p03.jpg": "Pents03.jpg",
+      "p04.jpg": "Pents04.jpg",
+      "p05.jpg": "Pents05.jpg",
+      "p06.jpg": "Pents06.jpg",
+      "p07.jpg": "Pents07.jpg",
+      "p08.jpg": "Pents08.jpg",
+      "p09.jpg": "Pents09.jpg",
+      "p10.jpg": "Pents10.jpg",
+      "p11.jpg": "Pents11.jpg",
+      "p13.jpg": "Pents13.jpg",
+      "p14.jpg": "Pents14.jpg",
+      "c14.jpg": "Mazzo colleoni-baglioni, bonifacio e ambrogio bembo, re di coppe, 1455-1460 circa.jpg",
+      "m15.jpg": "generated:m15",
+      "m16.jpg": "generated:m16",
+      "s03.jpg": "generated:s03",
+      "p12.jpg": "generated:p12"
+    },
+    "source": {
+      "name": "Visconti-Sforza",
+      "source": "Wikimedia Commons",
+      "category": "https://commons.wikimedia.org/wiki/Category:Pierpont%20Morgan-Bergamo%20Visconti-Sforza%20Tarot",
+      "note": "Milan, c.1450-1470 (Bonifacio Bembo). Scans of an AGMuller facsimile by David Madore (2003). 73 cards: Devil, Tower, Knight of Coins and Three of Swords are lost; King of Cups is missing from this scan set.",
+      "card_count": 73,
+      "cards": [
+        {
+          "card": "00_Fool.jpg",
+          "source_file": "Bembo-Visconti-tarot-arcanum-fool.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-fool.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "01_Magician.jpg",
+          "source_file": "Bembo-Visconti-tarot-arcanum-01-magician.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-01-magician.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "02_High_Priestess.jpg",
+          "source_file": "Bembo-Visconti-tarot-arcanum-02-high priestess.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-02-high_priestess.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "03_Empress.jpg",
+          "source_file": "Bembo-Visconti-tarot-arcanum-03-empress.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-03-empress.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "04_Emperor.jpg",
+          "source_file": "Bembo-Visconti-tarot-arcanum-04-emperor.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-04-emperor.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "05_Hierophant.jpg",
+          "source_file": "Bembo-Visconti-tarot-arcanum-05-hierophant.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-05-hierophant.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "06_Lovers.jpg",
+          "source_file": "Bembo-Visconti-tarot-arcanum-06-lovers.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-06-lovers.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "07_Chariot.jpg",
+          "source_file": "Bembo-Visconti-tarot-arcanum-07-chariot.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-07-chariot.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "08_Justice.jpg",
+          "source_file": "Bembo-Visconti-tarot-arcanum-08-justice.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-08-justice.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "09_Hermit.jpg",
+          "source_file": "Bembo-Visconti-tarot-arcanum-09-hermit.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-09-hermit.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "10_Wheel_of_Fortune.jpg",
+          "source_file": "Bembo-Visconti-tarot-arcanum-10-wheel of fortune.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-10-wheel_of_fortune.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "11_Strength.jpg",
+          "source_file": "Bembo-Visconti-tarot-arcanum-11-strength.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-11-strength.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "12_Hanged_Man.jpg",
+          "source_file": "Bembo-Visconti-tarot-arcanum-12-hanged man.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-12-hanged_man.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "13_Death.jpg",
+          "source_file": "Bembo-Visconti-tarot-arcanum-13.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-13.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "14_Temperance.jpg",
+          "source_file": "Bembo-Visconti-tarot-arcanum-14-temperance.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-14-temperance.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "17_Star.jpg",
+          "source_file": "Bembo-Visconti-tarot-arcanum-17-star.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-17-star.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "18_Moon.jpg",
+          "source_file": "Bembo-Visconti-tarot-arcanum-18-moon.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-18-moon.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "19_Sun.jpg",
+          "source_file": "Bembo-Visconti-tarot-arcanum-19-sun.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-19-sun.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "20_Judgement.jpg",
+          "source_file": "Bembo-Visconti-tarot-arcanum-20-judgement.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-20-judgement.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "21_World.jpg",
+          "source_file": "Bembo-Visconti-tarot-arcanum-21-world.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-21-world.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Cups01.jpg",
+          "source_file": "Bembo-Visconti-tarot-cups-01-ace.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-cups-01-ace.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Cups02.jpg",
+          "source_file": "Bembo-Visconti-tarot-cups-02-deuce.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-cups-02-deuce.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Cups03.jpg",
+          "source_file": "Bembo-Visconti-tarot-cups-03.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-cups-03.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Cups04.jpg",
+          "source_file": "Bembo-Visconti-tarot-cups-04.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-cups-04.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Cups05.jpg",
+          "source_file": "Bembo-Visconti-tarot-cups-05.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-cups-05.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Cups06.jpg",
+          "source_file": "Bembo-Visconti-tarot-cups-06.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-cups-06.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Cups07.jpg",
+          "source_file": "Bembo-Visconti-tarot-cups-07.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-cups-07.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Cups08.jpg",
+          "source_file": "Bembo-Visconti-tarot-cups-08.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-cups-08.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Cups09.jpg",
+          "source_file": "Bembo-Visconti-tarot-cups-09.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-cups-09.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Cups10.jpg",
+          "source_file": "Bembo-Visconti-tarot-cups-10.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-cups-10.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Cups11.jpg",
+          "source_file": "Bembo-Visconti-tarot-cups-11-knave.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-cups-11-knave.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Cups12.jpg",
+          "source_file": "Bembo-Visconti-tarot-cups-12-knight.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-cups-12-knight.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Cups13.jpg",
+          "source_file": "Bembo-Visconti-tarot-cups-13-queen.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-cups-13-queen.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Pents01.jpg",
+          "source_file": "Bembo-Visconti-tarot-coins-01-ace.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-coins-01-ace.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Pents02.jpg",
+          "source_file": "Bembo-Visconti-tarot-coins-02-deuce.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-coins-02-deuce.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Pents03.jpg",
+          "source_file": "Bembo-Visconti-tarot-coins-03.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-coins-03.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Pents04.jpg",
+          "source_file": "Bembo-Visconti-tarot-coins-04.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-coins-04.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Pents05.jpg",
+          "source_file": "Bembo-Visconti-tarot-coins-05.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-coins-05.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Pents06.jpg",
+          "source_file": "Bembo-Visconti-tarot-coins-06.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-coins-06.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Pents07.jpg",
+          "source_file": "Bembo-Visconti-tarot-coins-07.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-coins-07.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Pents08.jpg",
+          "source_file": "Bembo-Visconti-tarot-coins-08.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-coins-08.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Pents09.jpg",
+          "source_file": "Bembo-Visconti-tarot-coins-09.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-coins-09.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Pents10.jpg",
+          "source_file": "Bembo-Visconti-tarot-coins-10.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-coins-10.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Pents11.jpg",
+          "source_file": "Bembo-Visconti-tarot-coins-11-knave.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-coins-11-knave.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Pents13.jpg",
+          "source_file": "Bembo-Visconti-tarot-coins-13-queen.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-coins-13-queen.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Pents14.jpg",
+          "source_file": "Bembo-Visconti-tarot-coins-14-king.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-coins-14-king.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Swords01.jpg",
+          "source_file": "Bembo-Visconti-tarot-swords-01-ace.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-swords-01-ace.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Swords02.jpg",
+          "source_file": "Bembo-Visconti-tarot-swords-02-deuce.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-swords-02-deuce.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Swords04.jpg",
+          "source_file": "Bembo-Visconti-tarot-swords-04.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-swords-04.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Swords05.jpg",
+          "source_file": "Bembo-Visconti-tarot-swords-05.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-swords-05.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Swords06.jpg",
+          "source_file": "Bembo-Visconti-tarot-swords-06.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-swords-06.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Swords07.jpg",
+          "source_file": "Bembo-Visconti-tarot-swords-07.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-swords-07.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Swords08.jpg",
+          "source_file": "Bembo-Visconti-tarot-swords-08.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-swords-08.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Swords09.jpg",
+          "source_file": "Bembo-Visconti-tarot-swords-09.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-swords-09.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Swords10.jpg",
+          "source_file": "Bembo-Visconti-tarot-swords-10.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-swords-10.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Swords11.jpg",
+          "source_file": "Bembo-Visconti-tarot-swords-11-knave.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-swords-11-knave.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Swords12.jpg",
+          "source_file": "Bembo-Visconti-tarot-swords-12-knight.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-swords-12-knight.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Swords13.jpg",
+          "source_file": "Bembo-Visconti-tarot-swords-13-queen.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-swords-13-queen.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Swords14.jpg",
+          "source_file": "Bembo-Visconti-tarot-swords-14-king.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-swords-14-king.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Wands01.jpg",
+          "source_file": "Bembo-Visconti-tarot-staves-01-ace.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-staves-01-ace.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Wands02.jpg",
+          "source_file": "Bembo-Visconti-tarot-staves-02-deuce.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-staves-02-deuce.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Wands03.jpg",
+          "source_file": "Bembo-Visconti-tarot-staves-03.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-staves-03.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Wands04.jpg",
+          "source_file": "Bembo-Visconti-tarot-staves-04.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-staves-04.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Wands05.jpg",
+          "source_file": "Bembo-Visconti-tarot-staves-05.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-staves-05.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Wands06.jpg",
+          "source_file": "Bembo-Visconti-tarot-staves-06.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-staves-06.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Wands07.jpg",
+          "source_file": "Bembo-Visconti-tarot-staves-07.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-staves-07.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Wands08.jpg",
+          "source_file": "Bembo-Visconti-tarot-staves-08.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-staves-08.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Wands09.jpg",
+          "source_file": "Bembo-Visconti-tarot-staves-09.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-staves-09.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Wands10.jpg",
+          "source_file": "Bembo-Visconti-tarot-staves-10.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-staves-10.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Wands11.jpg",
+          "source_file": "Bembo-Visconti-tarot-staves-11-knave.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-staves-11-knave.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Wands12.jpg",
+          "source_file": "Bembo-Visconti-tarot-staves-12-knight.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-staves-12-knight.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Wands13.jpg",
+          "source_file": "Bembo-Visconti-tarot-staves-13-queen.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-staves-13-queen.jpg",
+          "width": 512,
+          "height": 1024
+        },
+        {
+          "card": "Wands14.jpg",
+          "source_file": "Bembo-Visconti-tarot-staves-14-king.jpg",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-staves-14-king.jpg",
+          "width": 512,
+          "height": 1024
+        }
+      ]
+    },
+    "supplement": {
+      "card": "c14.jpg",
+      "author": "Francesco Bini (Sailko)",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Mazzo_colleoni-baglioni,_bonifacio_e_ambrogio_bembo,_re_di_coppe,_1455-1460_circa.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Mazzo_colleoni-baglioni%2C_bonifacio_e_ambrogio_bembo%2C_re_di_coppe%2C_1455-1460_circa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "Redimensionamento e compressão WebP, sem recorte.",
+      "collection": "Accademia Carrara, Bergamo"
+    },
+    "reconstructions": {
+      "m15.jpg": {
+        "type": "modern-interpretive-reconstruction",
+        "method": "AI generated, built-in image_gen",
+        "prompt": "Use case: historical-scene. Asset type: a single tarot card illustration for an offline tarot app. Create a NEW modern interpretive reconstruction inspired by the public-domain fifteenth-century Visconti–Sforza cards, not a claim to depict a surviving original. Portrait aspect ratio 1:2. Flat straight-on scan of the entire card, filling the image, thin aged ivory outer margins and thin dark blue rectangular inner rule. Lombard early Renaissance tempera miniature on old parchment, delicately tooled antique gold leaf, worn pigments of muted ultramarine, vermilion and moss green, fine brown linework, shallow space, elegant elongated courtly forms, restrained detail and naturally irregular paint. Match an antique Visconti–Sforza deck rather than Rider–Waite. No writing, lettering, numbers, labels, modern elements, extra border outside the card, watermark, 3D mockup, hands holding card, or photographic setting. Subject: THE DEVIL. A single full-length folkloric horned devil with small bat wings, clawed feet and a long curling tail, standing on a small low plinth, one hand raised and the other holding a short staff. A medieval allegorical creature, austere rather than horror, against a tooled gold background with a narrow green earth strip. No chained people and no nudity.",
+        "changes": "Redimensionamento e compressão WebP.",
+        "note": "Ilustração nova inspirada no Visconti–Sforza; não reproduz uma carta histórica preservada."
+      },
+      "m16.jpg": {
+        "type": "modern-interpretive-reconstruction",
+        "method": "AI generated, built-in image_gen",
+        "prompt": "Use case: historical-scene. Asset type: a single tarot card illustration for an offline tarot app. Create a NEW modern interpretive reconstruction inspired by the public-domain fifteenth-century Visconti–Sforza cards, not a claim to depict a surviving original. Portrait aspect ratio 1:2. Flat straight-on scan of the entire card, filling the image, thin aged ivory outer margins and thin dark blue rectangular inner rule. Lombard early Renaissance tempera miniature on old parchment, delicately tooled antique gold leaf, worn pigments of muted ultramarine, vermilion and moss green, fine brown linework, shallow space, elegant elongated courtly forms, restrained detail and naturally irregular paint. Match an antique Visconti–Sforza deck rather than Rider–Waite. No writing, lettering, numbers, labels, modern elements, extra border outside the card, watermark, 3D mockup, hands holding card, or photographic setting. Subject: THE TOWER. A tall medieval Italian stone tower struck at its crown by a jagged golden bolt from a small cloud, fragments of masonry and restrained red flames falling. Small green ground strip, gold field. No people. Use the archaic, simple allegorical composition of a fifteenth-century painted playing card, not a cinematic landscape.",
+        "changes": "Redimensionamento e compressão WebP.",
+        "note": "Ilustração nova inspirada no Visconti–Sforza; não reproduz uma carta histórica preservada."
+      },
+      "s03.jpg": {
+        "type": "modern-interpretive-reconstruction",
+        "method": "AI generated, built-in image_gen",
+        "prompt": "Use case: historical-scene. Asset type: a single tarot card illustration for an offline tarot app. Create a NEW modern interpretive reconstruction inspired by the public-domain fifteenth-century Visconti–Sforza cards, not a claim to depict a surviving original. Portrait aspect ratio 1:2. Flat straight-on scan of the entire card, filling the image, thin aged ivory outer margins and thin dark blue rectangular inner rule. Lombard early Renaissance tempera miniature on old parchment, delicately tooled antique gold leaf, worn pigments of muted ultramarine, vermilion and moss green, fine brown linework, shallow space, elegant elongated courtly forms, restrained detail and naturally irregular paint. Match an antique Visconti–Sforza deck rather than Rider–Waite. No writing, lettering, numbers, labels, modern elements, extra border outside the card, watermark, 3D mockup, hands holding card, or photographic setting. Subject: THREE OF SWORDS, a non-scenic suit card. Exactly THREE slender Renaissance swords, two outer curved blades symmetrically facing inward, one straight sword upright at center, dark blue steel, delicate red and gilt hilts. Arrange three swords elegantly on aged ivory parchment with a few small red, blue and green botanical tendrils, as a Visconti minor pip card. No heart, people, landscape or additional weapons. The count MUST be exactly three swords.",
+        "changes": "Redimensionamento e compressão WebP.",
+        "note": "Ilustração nova inspirada no Visconti–Sforza; não reproduz uma carta histórica preservada."
+      },
+      "p12.jpg": {
+        "type": "modern-interpretive-reconstruction",
+        "method": "AI generated, built-in image_gen",
+        "prompt": "Use case: historical-scene. Asset type: a single tarot card illustration for an offline tarot app. Create a NEW modern interpretive reconstruction inspired by the public-domain fifteenth-century Visconti–Sforza cards, not a claim to depict a surviving original. Portrait aspect ratio 1:2. Flat straight-on scan of the entire card, filling the image, thin aged ivory outer margins and thin dark blue rectangular inner rule. Lombard early Renaissance tempera miniature on old parchment, delicately tooled antique gold leaf, worn pigments of muted ultramarine, vermilion and moss green, fine brown linework, shallow space, elegant elongated courtly forms, restrained detail and naturally irregular paint. Match an antique Visconti–Sforza deck rather than Rider–Waite. No writing, lettering, numbers, labels, modern elements, extra border outside the card, watermark, 3D mockup, hands holding card, or photographic setting. Subject: KNIGHT OF COINS. One young Renaissance Milanese mounted knight, full figure and horse completely visible in profile. He wears muted ultramarine and red courtly clothes and a small cap, riding a cream-colored walking horse with a simple blue cloth caparison. He holds up exactly one round large gold coin with a subtle sun emblem. Tooled gold background and narrow green earth strip. No armor spectacle, extra figures, text or additional coins.",
+        "changes": "Redimensionamento e compressão WebP.",
+        "note": "Ilustração nova inspirada no Visconti–Sforza; não reproduz uma carta histórica preservada."
+      }
+    }
+  },
+  "besancon": {
+    "mapping": {
+      "m00.jpg": "00_Le_Mat.png",
+      "m01.jpg": "01_Le_Bateleur.png",
+      "m02.jpg": "02_La_Papesse.png",
+      "m03.jpg": "03_L_Imperatrice.png",
+      "m04.jpg": "04_L_Empereur.png",
+      "m05.jpg": "05_Le_Pape.png",
+      "m06.jpg": "06_L_Amoureux.png",
+      "m07.jpg": "07_Le_Chariot.png",
+      "m08.jpg": "11_La_Force.png",
+      "m09.jpg": "09_L_Ermite.png",
+      "m10.jpg": "10_La_Roue_de_Fortune.png",
+      "m11.jpg": "08_La_Justice.png",
+      "m12.jpg": "12_Le_Pendu.png",
+      "m13.jpg": "13_La_Mort.png",
+      "m14.jpg": "14_Temperance.png",
+      "m15.jpg": "15_Le_Diable.png",
+      "m16.jpg": "16_La_Maison_Dieu.png",
+      "m17.jpg": "17_L_Etoile.png",
+      "m18.jpg": "18_La_Lune.png",
+      "m19.jpg": "19_Le_Soleil.png",
+      "m20.jpg": "20_Le_Jugement.png",
+      "m21.jpg": "21_Le_Monde.png",
+      "w01.jpg": "Wands01.png",
+      "w02.jpg": "Wands02.png",
+      "w03.jpg": "Wands03.png",
+      "w04.jpg": "Wands04.png",
+      "w05.jpg": "Wands05.png",
+      "w06.jpg": "Wands06.png",
+      "w07.jpg": "Wands07.png",
+      "w08.jpg": "Wands08.png",
+      "w09.jpg": "Wands09.png",
+      "w10.jpg": "Wands10.png",
+      "w11.jpg": "Wands12.png",
+      "w12.jpg": "Wands11.png",
+      "w13.jpg": "Wands13.png",
+      "w14.jpg": "Wands14.png",
+      "c01.jpg": "Cups01.png",
+      "c02.jpg": "Cups02.png",
+      "c03.jpg": "Cups03.png",
+      "c04.jpg": "Cups04.png",
+      "c05.jpg": "Cups05.png",
+      "c06.jpg": "Cups06.png",
+      "c07.jpg": "Cups07.png",
+      "c08.jpg": "Cups08.png",
+      "c09.jpg": "Cups09.png",
+      "c10.jpg": "Cups10.png",
+      "c11.jpg": "Cups12.png",
+      "c12.jpg": "Cups11.png",
+      "c13.jpg": "Cups13.png",
+      "c14.jpg": "Cups14.png",
+      "s01.jpg": "Swords01.png",
+      "s02.jpg": "Swords02.png",
+      "s03.jpg": "Swords03.png",
+      "s04.jpg": "Swords04.png",
+      "s05.jpg": "Swords05.png",
+      "s06.jpg": "Swords06.png",
+      "s07.jpg": "Swords07.png",
+      "s08.jpg": "Swords08.png",
+      "s09.jpg": "Swords09.png",
+      "s10.jpg": "Swords10.png",
+      "s11.jpg": "Swords12.png",
+      "s12.jpg": "Swords11.png",
+      "s13.jpg": "Swords13.png",
+      "s14.jpg": "Swords14.png",
+      "p01.jpg": "Pents01.png",
+      "p02.jpg": "Pents02.png",
+      "p03.jpg": "Pents03.png",
+      "p04.jpg": "Pents04.png",
+      "p05.jpg": "Pents05.png",
+      "p06.jpg": "Pents06.png",
+      "p07.jpg": "Pents07.png",
+      "p08.jpg": "Pents08.png",
+      "p09.jpg": "Pents09.png",
+      "p10.jpg": "Pents10.png",
+      "p11.jpg": "Pents12.png",
+      "p12.jpg": "Pents11.png",
+      "p13.jpg": "Pents13.png",
+      "p14.jpg": "Pents14.png"
+    },
+    "source": {
+      "name": "Tarot de Marseille",
+      "source": "Wikimedia Commons",
+      "category": "https://commons.wikimedia.org/wiki/Category:Tarot%20de%20Marseille%20%28Single%20Cards%29",
+      "note": "Classic Tarot de Marseille. Trump order is the historical one (VIII Justice, XI Force) - the reverse of Rider-Waite.",
+      "card_count": 78,
+      "cards": [
+        {
+          "card": "00_Le_Mat.png",
+          "source_file": "TT Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:TT_Tarot.png",
+          "width": 813,
+          "height": 1536
+        },
+        {
+          "card": "01_Le_Bateleur.png",
+          "source_file": "T1 Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:T1_Tarot.png",
+          "width": 813,
+          "height": 1536
+        },
+        {
+          "card": "02_La_Papesse.png",
+          "source_file": "T2 Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:T2_Tarot.png",
+          "width": 814,
+          "height": 1536
+        },
+        {
+          "card": "03_L_Imperatrice.png",
+          "source_file": "T3 Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:T3_Tarot.png",
+          "width": 814,
+          "height": 1536
+        },
+        {
+          "card": "04_L_Empereur.png",
+          "source_file": "T4 Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:T4_Tarot.png",
+          "width": 814,
+          "height": 1536
+        },
+        {
+          "card": "05_Le_Pape.png",
+          "source_file": "T5 Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:T5_Tarot.png",
+          "width": 812,
+          "height": 1536
+        },
+        {
+          "card": "06_L_Amoureux.png",
+          "source_file": "T6 Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:T6_Tarot.png",
+          "width": 816,
+          "height": 1536
+        },
+        {
+          "card": "07_Le_Chariot.png",
+          "source_file": "T7 Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:T7_Tarot.png",
+          "width": 816,
+          "height": 1536
+        },
+        {
+          "card": "08_La_Justice.png",
+          "source_file": "T8 Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:T8_Tarot.png",
+          "width": 816,
+          "height": 1536
+        },
+        {
+          "card": "09_L_Ermite.png",
+          "source_file": "T9 Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:T9_Tarot.png",
+          "width": 821,
+          "height": 1536
+        },
+        {
+          "card": "10_La_Roue_de_Fortune.png",
+          "source_file": "T10 Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:T10_Tarot.png",
+          "width": 812,
+          "height": 1536
+        },
+        {
+          "card": "11_La_Force.png",
+          "source_file": "T11 Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:T11_Tarot.png",
+          "width": 813,
+          "height": 1536
+        },
+        {
+          "card": "12_Le_Pendu.png",
+          "source_file": "T12 Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:T12_Tarot.png",
+          "width": 813,
+          "height": 1536
+        },
+        {
+          "card": "13_La_Mort.png",
+          "source_file": "T13 Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:T13_Tarot.png",
+          "width": 813,
+          "height": 1536
+        },
+        {
+          "card": "14_Temperance.png",
+          "source_file": "T14 Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:T14_Tarot.png",
+          "width": 813,
+          "height": 1536
+        },
+        {
+          "card": "15_Le_Diable.png",
+          "source_file": "T15 Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:T15_Tarot.png",
+          "width": 820,
+          "height": 1536
+        },
+        {
+          "card": "16_La_Maison_Dieu.png",
+          "source_file": "T16 Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:T16_Tarot.png",
+          "width": 814,
+          "height": 1536
+        },
+        {
+          "card": "17_L_Etoile.png",
+          "source_file": "T17 Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:T17_Tarot.png",
+          "width": 813,
+          "height": 1536
+        },
+        {
+          "card": "18_La_Lune.png",
+          "source_file": "T18 Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:T18_Tarot.png",
+          "width": 813,
+          "height": 1536
+        },
+        {
+          "card": "19_Le_Soleil.png",
+          "source_file": "T19 Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:T19_Tarot.png",
+          "width": 813,
+          "height": 1536
+        },
+        {
+          "card": "20_Le_Jugement.png",
+          "source_file": "T20 Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:T20_Tarot.png",
+          "width": 813,
+          "height": 1536
+        },
+        {
+          "card": "21_Le_Monde.png",
+          "source_file": "T21 Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:T21_Tarot.png",
+          "width": 813,
+          "height": 1536
+        },
+        {
+          "card": "Cups01.png",
+          "source_file": "1C Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:1C_Tarot.png",
+          "width": 809,
+          "height": 1537
+        },
+        {
+          "card": "Cups02.png",
+          "source_file": "2C Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:2C_Tarot.png",
+          "width": 809,
+          "height": 1537
+        },
+        {
+          "card": "Cups03.png",
+          "source_file": "3C Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:3C_Tarot.png",
+          "width": 805,
+          "height": 1536
+        },
+        {
+          "card": "Cups04.png",
+          "source_file": "4C Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:4C_Tarot.png",
+          "width": 806,
+          "height": 1536
+        },
+        {
+          "card": "Cups05.png",
+          "source_file": "5C Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:5C_Tarot.png",
+          "width": 814,
+          "height": 1536
+        },
+        {
+          "card": "Cups06.png",
+          "source_file": "6C Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:6C_Tarot.png",
+          "width": 805,
+          "height": 1536
+        },
+        {
+          "card": "Cups07.png",
+          "source_file": "7C Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:7C_Tarot.png",
+          "width": 811,
+          "height": 1537
+        },
+        {
+          "card": "Cups08.png",
+          "source_file": "8C Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:8C_Tarot.png",
+          "width": 813,
+          "height": 1536
+        },
+        {
+          "card": "Cups09.png",
+          "source_file": "9C Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:9C_Tarot.png",
+          "width": 817,
+          "height": 1536
+        },
+        {
+          "card": "Cups10.png",
+          "source_file": "10C Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:10C_Tarot.png",
+          "width": 813,
+          "height": 1536
+        },
+        {
+          "card": "Cups11.png",
+          "source_file": "HC Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:HC_Tarot.png",
+          "width": 813,
+          "height": 1536
+        },
+        {
+          "card": "Cups12.png",
+          "source_file": "JC Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:JC_Tarot.png",
+          "width": 813,
+          "height": 1536
+        },
+        {
+          "card": "Cups13.png",
+          "source_file": "QC Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:QC_Tarot.png",
+          "width": 813,
+          "height": 1536
+        },
+        {
+          "card": "Cups14.png",
+          "source_file": "KC Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:KC_Tarot.png",
+          "width": 812,
+          "height": 1536
+        },
+        {
+          "card": "Pents01.png",
+          "source_file": "1P Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:1P_Tarot.png",
+          "width": 805,
+          "height": 1536
+        },
+        {
+          "card": "Pents02.png",
+          "source_file": "2P Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:2P_Tarot.png",
+          "width": 809,
+          "height": 1536
+        },
+        {
+          "card": "Pents03.png",
+          "source_file": "3P Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:3P_Tarot.png",
+          "width": 812,
+          "height": 1536
+        },
+        {
+          "card": "Pents04.png",
+          "source_file": "4P Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:4P_Tarot.png",
+          "width": 811,
+          "height": 1536
+        },
+        {
+          "card": "Pents05.png",
+          "source_file": "5P Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:5P_Tarot.png",
+          "width": 808,
+          "height": 1536
+        },
+        {
+          "card": "Pents06.png",
+          "source_file": "6P Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:6P_Tarot.png",
+          "width": 810,
+          "height": 1536
+        },
+        {
+          "card": "Pents07.png",
+          "source_file": "7P Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:7P_Tarot.png",
+          "width": 808,
+          "height": 1537
+        },
+        {
+          "card": "Pents08.png",
+          "source_file": "8P Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:8P_Tarot.png",
+          "width": 808,
+          "height": 1537
+        },
+        {
+          "card": "Pents09.png",
+          "source_file": "9P Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:9P_Tarot.png",
+          "width": 809,
+          "height": 1536
+        },
+        {
+          "card": "Pents10.png",
+          "source_file": "10P Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:10P_Tarot.png",
+          "width": 809,
+          "height": 1536
+        },
+        {
+          "card": "Pents11.png",
+          "source_file": "HP Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:HP_Tarot.png",
+          "width": 813,
+          "height": 1536
+        },
+        {
+          "card": "Pents12.png",
+          "source_file": "JP Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:JP_Tarot.png",
+          "width": 810,
+          "height": 1536
+        },
+        {
+          "card": "Pents13.png",
+          "source_file": "QP Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:QP_Tarot.png",
+          "width": 813,
+          "height": 1536
+        },
+        {
+          "card": "Pents14.png",
+          "source_file": "KP Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:KP_Tarot.png",
+          "width": 805,
+          "height": 1536
+        },
+        {
+          "card": "Swords01.png",
+          "source_file": "1S Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:1S_Tarot.png",
+          "width": 818,
+          "height": 1536
+        },
+        {
+          "card": "Swords02.png",
+          "source_file": "2S Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:2S_Tarot.png",
+          "width": 811,
+          "height": 1537
+        },
+        {
+          "card": "Swords03.png",
+          "source_file": "3S Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:3S_Tarot.png",
+          "width": 805,
+          "height": 1536
+        },
+        {
+          "card": "Swords04.png",
+          "source_file": "4S Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:4S_Tarot.png",
+          "width": 809,
+          "height": 1536
+        },
+        {
+          "card": "Swords05.png",
+          "source_file": "5S Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:5S_Tarot.png",
+          "width": 809,
+          "height": 1537
+        },
+        {
+          "card": "Swords06.png",
+          "source_file": "6S Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:6S_Tarot.png",
+          "width": 817,
+          "height": 1536
+        },
+        {
+          "card": "Swords07.png",
+          "source_file": "7S Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:7S_Tarot.png",
+          "width": 812,
+          "height": 1536
+        },
+        {
+          "card": "Swords08.png",
+          "source_file": "8S Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:8S_Tarot.png",
+          "width": 813,
+          "height": 1536
+        },
+        {
+          "card": "Swords09.png",
+          "source_file": "9S Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:9S_Tarot.png",
+          "width": 817,
+          "height": 1536
+        },
+        {
+          "card": "Swords10.png",
+          "source_file": "10S Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:10S_Tarot.png",
+          "width": 812,
+          "height": 1536
+        },
+        {
+          "card": "Swords11.png",
+          "source_file": "HS Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:HS_Tarot.png",
+          "width": 819,
+          "height": 1536
+        },
+        {
+          "card": "Swords12.png",
+          "source_file": "JS Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:JS_Tarot.png",
+          "width": 813,
+          "height": 1536
+        },
+        {
+          "card": "Swords13.png",
+          "source_file": "QS Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:QS_Tarot.png",
+          "width": 817,
+          "height": 1537
+        },
+        {
+          "card": "Swords14.png",
+          "source_file": "KS Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:KS_Tarot.png",
+          "width": 817,
+          "height": 1537
+        },
+        {
+          "card": "Wands01.png",
+          "source_file": "1B Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:1B_Tarot.png",
+          "width": 816,
+          "height": 1536
+        },
+        {
+          "card": "Wands02.png",
+          "source_file": "2B Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:2B_Tarot.png",
+          "width": 816,
+          "height": 1536
+        },
+        {
+          "card": "Wands03.png",
+          "source_file": "3B Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:3B_Tarot.png",
+          "width": 816,
+          "height": 1536
+        },
+        {
+          "card": "Wands04.png",
+          "source_file": "4B Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:4B_Tarot.png",
+          "width": 816,
+          "height": 1536
+        },
+        {
+          "card": "Wands05.png",
+          "source_file": "5B Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:5B_Tarot.png",
+          "width": 815,
+          "height": 1536
+        },
+        {
+          "card": "Wands06.png",
+          "source_file": "6B Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:6B_Tarot.png",
+          "width": 815,
+          "height": 1536
+        },
+        {
+          "card": "Wands07.png",
+          "source_file": "7B Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:7B_Tarot.png",
+          "width": 815,
+          "height": 1536
+        },
+        {
+          "card": "Wands08.png",
+          "source_file": "8B Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:8B_Tarot.png",
+          "width": 815,
+          "height": 1536
+        },
+        {
+          "card": "Wands09.png",
+          "source_file": "9B Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:9B_Tarot.png",
+          "width": 814,
+          "height": 1536
+        },
+        {
+          "card": "Wands10.png",
+          "source_file": "10B Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:10B_Tarot.png",
+          "width": 813,
+          "height": 1536
+        },
+        {
+          "card": "Wands11.png",
+          "source_file": "HB Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:HB_Tarot.png",
+          "width": 806,
+          "height": 1536
+        },
+        {
+          "card": "Wands12.png",
+          "source_file": "JB Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:JB_Tarot.png",
+          "width": 817,
+          "height": 1536
+        },
+        {
+          "card": "Wands13.png",
+          "source_file": "QB Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:QB_Tarot.png",
+          "width": 812,
+          "height": 1536
+        },
+        {
+          "card": "Wands14.png",
+          "source_file": "KB Tarot.png",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:KB_Tarot.png",
+          "width": 810,
+          "height": 1536
+        }
+      ]
+    }
+  },
+  "keepers-arcana": {
+    "author": "John Trapp",
+    "year": 2025,
+    "source": "https://foggytown.wordpress.com/2025/12/01/the-keepers-arcana-an-elven-tarot-deck/",
+    "download": "https://midmo.us/keepers_arcana_tarot.zip",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "licenseText": "Following is the license for these files related to The Keeper’s Arcana: An Elven Tarot Deck by John Trapp\n\nAttribution 4.0 International\n\n=======================================================================\n\nCreative Commons Corporation (\"Creative Commons\") is not a law firm and\ndoes not provide legal services or legal advice. Distribution of\nCreative Commons public licenses does not create a lawyer-client or\nother relationship. Creative Commons makes its licenses and related\ninformation available on an \"as-is\" basis. Creative Commons gives no\nwarranties regarding its licenses, any material licensed under their\nterms and conditions, or any related information. Creative Commons\ndisclaims all liability for damages resulting from their use to the\nfullest extent possible.\n\nUsing Creative Commons Public Licenses\n\nCreative Commons public licenses provide a standard set of terms and\nconditions that creators and other rights holders may use to share\noriginal works of authorship and other material subject to copyright\nand certain other rights specified in the public license below. The\nfollowing considerations are for informational purposes only, are not\nexhaustive, and do not form part of our licenses.\n\n     Considerations for licensors: Our public licenses are\n     intended for use by those authorized to give the public\n     permission to use material in ways otherwise restricted by\n     copyright and certain other rights. Our licenses are\n     irrevocable. Licensors should read and understand the terms\n     and conditions of the license they choose before applying it.\n     Licensors should also secure all rights necessary before\n     applying our licenses so that the public can reuse the\n     material as expected. Licensors should clearly mark any\n     material not subject to the license. This includes other CC-\n     licensed material, or material used under an exception or\n     limitation to copyright. More considerations for licensors:\n    wiki.creativecommons.org/Considerations_for_licensors\n\n     Considerations for the public: By using one of our public\n     licenses, a licensor grants the public permission to use the\n     licensed material under specified terms and conditions. If\n     the licensor's permission is not necessary for any reason--for\n     example, because of any applicable exception or limitation to\n     copyright--then that use is not regulated by the license. Our\n     licenses grant only permissions under copyright and certain\n     other rights that a licensor has authority to grant. Use of\n     the licensed material may still be restricted for other\n     reasons, including because others have copyright or other\n     rights in the material. A licensor may make special requests,\n     such as asking that all changes be marked or described.\n     Although not required by our licenses, you are encouraged to\n     respect those requests where reasonable. More considerations\n     for the public:\n    wiki.creativecommons.org/Considerations_for_licensees\n\n=======================================================================\n\nCreative Commons Attribution 4.0 International Public License\n\nBy exercising the Licensed Rights (defined below), You accept and agree\nto be bound by the terms and conditions of this Creative Commons\nAttribution 4.0 International Public License (\"Public License\"). To the\nextent this Public License may be interpreted as a contract, You are\ngranted the Licensed Rights in consideration of Your acceptance of\nthese terms and conditions, and the Licensor grants You such rights in\nconsideration of benefits the Licensor receives from making the\nLicensed Material available under these terms and conditions.\n\n\nSection 1 -- Definitions.\n\n  a. Adapted Material means material subject to Copyright and Similar\n     Rights that is derived from or based upon the Licensed Material\n     and in which the Licensed Material is translated, altered,\n     arranged, transformed, or otherwise modified in a manner requiring\n     permission under the Copyright and Similar Rights held by the\n     Licensor. For purposes of this Public License, where the Licensed\n     Material is a musical work, performance, or sound recording,\n     Adapted Material is always produced where the Licensed Material is\n     synched in timed relation with a moving image.\n\n  b. Adapter's License means the license You apply to Your Copyright\n     and Similar Rights in Your contributions to Adapted Material in\n     accordance with the terms and conditions of this Public License.\n\n  c. Copyright and Similar Rights means copyright and/or similar rights\n     closely related to copyright including, without limitation,\n     performance, broadcast, sound recording, and Sui Generis Database\n     Rights, without regard to how the rights are labeled or\n     categorized. For purposes of this Public License, the rights\n     specified in Section 2(b)(1)-(2) are not Copyright and Similar\n     Rights.\n\n  d. Effective Technological Measures means those measures that, in the\n     absence of proper authority, may not be circumvented under laws\n     fulfilling obligations under Article 11 of the WIPO Copyright\n     Treaty adopted on December 20, 1996, and/or similar international\n     agreements.\n\n  e. Exceptions and Limitations means fair use, fair dealing, and/or\n     any other exception or limitation to Copyright and Similar Rights\n     that applies to Your use of the Licensed Material.\n\n  f. Licensed Material means the artistic or literary work, database,\n     or other material to which the Licensor applied this Public\n     License.\n\n  g. Licensed Rights means the rights granted to You subject to the\n     terms and conditions of this Public License, which are limited to\n     all Copyright and Similar Rights that apply to Your use of the\n     Licensed Material and that the Licensor has authority to license.\n\n  h. Licensor means the individual(s) or entity(ies) granting rights\n     under this Public License.\n\n  i. Share means to provide material to the public by any means or\n     process that requires permission under the Licensed Rights, such\n     as reproduction, public display, public performance, distribution,\n     dissemination, communication, or importation, and to make material\n     available to the public including in ways that members of the\n     public may access the material from a place and at a time\n     individually chosen by them.\n\n  j. Sui Generis Database Rights means rights other than copyright\n     resulting from Directive 96/9/EC of the European Parliament and of\n     the Council of 11 March 1996 on the legal protection of databases,\n     as amended and/or succeeded, as well as other essentially\n     equivalent rights anywhere in the world.\n\n  k. You means the individual or entity exercising the Licensed Rights\n     under this Public License. Your has a corresponding meaning.\n\n\nSection 2 -- Scope.\n\n  a. License grant.\n\n       1. Subject to the terms and conditions of this Public License,\n          the Licensor hereby grants You a worldwide, royalty-free,\n          non-sublicensable, non-exclusive, irrevocable license to\n          exercise the Licensed Rights in the Licensed Material to:\n\n            a. reproduce and Share the Licensed Material, in whole or\n               in part; and\n\n            b. produce, reproduce, and Share Adapted Material.\n\n       2. Exceptions and Limitations. For the avoidance of doubt, where\n          Exceptions and Limitations apply to Your use, this Public\n          License does not apply, and You do not need to comply with\n          its terms and conditions.\n\n       3. Term. The term of this Public License is specified in Section\n          6(a).\n\n       4. Media and formats; technical modifications allowed. The\n          Licensor authorizes You to exercise the Licensed Rights in\n          all media and formats whether now known or hereafter created,\n          and to make technical modifications necessary to do so. The\n          Licensor waives and/or agrees not to assert any right or\n          authority to forbid You from making technical modifications\n          necessary to exercise the Licensed Rights, including\n          technical modifications necessary to circumvent Effective\n          Technological Measures. For purposes of this Public License,\n          simply making modifications authorized by this Section 2(a)\n          (4) never produces Adapted Material.\n\n       5. Downstream recipients.\n\n            a. Offer from the Licensor -- Licensed Material. Every\n               recipient of the Licensed Material automatically\n               receives an offer from the Licensor to exercise the\n               Licensed Rights under the terms and conditions of this\n               Public License.\n\n            b. No downstream restrictions. You may not offer or impose\n               any additional or different terms or conditions on, or\n               apply any Effective Technological Measures to, the\n               Licensed Material if doing so restricts exercise of the\n               Licensed Rights by any recipient of the Licensed\n               Material.\n\n       6. No endorsement. Nothing in this Public License constitutes or\n          may be construed as permission to assert or imply that You\n          are, or that Your use of the Licensed Material is, connected\n          with, or sponsored, endorsed, or granted official status by,\n          the Licensor or others designated to receive attribution as\n          provided in Section 3(a)(1)(A)(i).\n\n  b. Other rights.\n\n       1. Moral rights, such as the right of integrity, are not\n          licensed under this Public License, nor are publicity,\n          privacy, and/or other similar personality rights; however, to\n          the extent possible, the Licensor waives and/or agrees not to\n          assert any such rights held by the Licensor to the limited\n          extent necessary to allow You to exercise the Licensed\n          Rights, but not otherwise.\n\n       2. Patent and trademark rights are not licensed under this\n          Public License.\n\n       3. To the extent possible, the Licensor waives any right to\n          collect royalties from You for the exercise of the Licensed\n          Rights, whether directly or through a collecting society\n          under any voluntary or waivable statutory or compulsory\n          licensing scheme. In all other cases the Licensor expressly\n          reserves any right to collect such royalties.\n\n\nSection 3 -- License Conditions.\n\nYour exercise of the Licensed Rights is expressly made subject to the\nfollowing conditions.\n\n  a. Attribution.\n\n       1. If You Share the Licensed Material (including in modified\n          form), You must:\n\n            a. retain the following if it is supplied by the Licensor\n               with the Licensed Material:\n\n                 i. identification of the creator(s) of the Licensed\n                    Material and any others designated to receive\n                    attribution, in any reasonable manner requested by\n                    the Licensor (including by pseudonym if\n                    designated);\n\n                ii. a copyright notice;\n\n               iii. a notice that refers to this Public License;\n\n                iv. a notice that refers to the disclaimer of\n                    warranties;\n\n                 v. a URI or hyperlink to the Licensed Material to the\n                    extent reasonably practicable;\n\n            b. indicate if You modified the Licensed Material and\n               retain an indication of any previous modifications; and\n\n            c. indicate the Licensed Material is licensed under this\n               Public License, and include the text of, or the URI or\n               hyperlink to, this Public License.\n\n       2. You may satisfy the conditions in Section 3(a)(1) in any\n          reasonable manner based on the medium, means, and context in\n          which You Share the Licensed Material. For example, it may be\n          reasonable to satisfy the conditions by providing a URI or\n          hyperlink to a resource that includes the required\n          information.\n\n       3. If requested by the Licensor, You must remove any of the\n          information required by Section 3(a)(1)(A) to the extent\n          reasonably practicable.\n\n       4. If You Share Adapted Material You produce, the Adapter's\n          License You apply must not prevent recipients of the Adapted\n          Material from complying with this Public License.\n\n\nSection 4 -- Sui Generis Database Rights.\n\nWhere the Licensed Rights include Sui Generis Database Rights that\napply to Your use of the Licensed Material:\n\n  a. for the avoidance of doubt, Section 2(a)(1) grants You the right\n     to extract, reuse, reproduce, and Share all or a substantial\n     portion of the contents of the database;\n\n  b. if You include all or a substantial portion of the database\n     contents in a database in which You have Sui Generis Database\n     Rights, then the database in which You have Sui Generis Database\n     Rights (but not its individual contents) is Adapted Material; and\n\n  c. You must comply with the conditions in Section 3(a) if You Share\n     all or a substantial portion of the contents of the database.\n\nFor the avoidance of doubt, this Section 4 supplements and does not\nreplace Your obligations under this Public License where the Licensed\nRights include other Copyright and Similar Rights.\n\n\nSection 5 -- Disclaimer of Warranties and Limitation of Liability.\n\n  a. UNLESS OTHERWISE SEPARATELY UNDERTAKEN BY THE LICENSOR, TO THE\n     EXTENT POSSIBLE, THE LICENSOR OFFERS THE LICENSED MATERIAL AS-IS\n     AND AS-AVAILABLE, AND MAKES NO REPRESENTATIONS OR WARRANTIES OF\n     ANY KIND CONCERNING THE LICENSED MATERIAL, WHETHER EXPRESS,\n     IMPLIED, STATUTORY, OR OTHER. THIS INCLUDES, WITHOUT LIMITATION,\n     WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR\n     PURPOSE, NON-INFRINGEMENT, ABSENCE OF LATENT OR OTHER DEFECTS,\n     ACCURACY, OR THE PRESENCE OR ABSENCE OF ERRORS, WHETHER OR NOT\n     KNOWN OR DISCOVERABLE. WHERE DISCLAIMERS OF WARRANTIES ARE NOT\n     ALLOWED IN FULL OR IN PART, THIS DISCLAIMER MAY NOT APPLY TO YOU.\n\n  b. TO THE EXTENT POSSIBLE, IN NO EVENT WILL THE LICENSOR BE LIABLE\n     TO YOU ON ANY LEGAL THEORY (INCLUDING, WITHOUT LIMITATION,\n     NEGLIGENCE) OR OTHERWISE FOR ANY DIRECT, SPECIAL, INDIRECT,\n     INCIDENTAL, CONSEQUENTIAL, PUNITIVE, EXEMPLARY, OR OTHER LOSSES,\n     COSTS, EXPENSES, OR DAMAGES ARISING OUT OF THIS PUBLIC LICENSE OR\n     USE OF THE LICENSED MATERIAL, EVEN IF THE LICENSOR HAS BEEN\n     ADVISED OF THE POSSIBILITY OF SUCH LOSSES, COSTS, EXPENSES, OR\n     DAMAGES. WHERE A LIMITATION OF LIABILITY IS NOT ALLOWED IN FULL OR\n     IN PART, THIS LIMITATION MAY NOT APPLY TO YOU.\n\n  c. The disclaimer of warranties and limitation of liability provided\n     above shall be interpreted in a manner that, to the extent\n     possible, most closely approximates an absolute disclaimer and\n     waiver of all liability.\n\n\nSection 6 -- Term and Termination.\n\n  a. This Public License applies for the term of the Copyright and\n     Similar Rights licensed here. However, if You fail to comply with\n     this Public License, then Your rights under this Public License\n     terminate automatically.\n\n  b. Where Your right to use the Licensed Material has terminated under\n     Section 6(a), it reinstates:\n\n       1. automatically as of the date the violation is cured, provided\n          it is cured within 30 days of Your discovery of the\n          violation; or\n\n       2. upon express reinstatement by the Licensor.\n\n     For the avoidance of doubt, this Section 6(b) does not affect any\n     right the Licensor may have to seek remedies for Your violations\n     of this Public License.\n\n  c. For the avoidance of doubt, the Licensor may also offer the\n     Licensed Material under separate terms or conditions or stop\n     distributing the Licensed Material at any time; however, doing so\n     will not terminate this Public License.\n\n  d. Sections 1, 5, 6, 7, and 8 survive termination of this Public\n     License.\n\n\nSection 7 -- Other Terms and Conditions.\n\n  a. The Licensor shall not be bound by any additional or different\n     terms or conditions communicated by You unless expressly agreed.\n\n  b. Any arrangements, understandings, or agreements regarding the\n     Licensed Material not stated herein are separate from and\n     independent of the terms and conditions of this Public License.\n\n\nSection 8 -- Interpretation.\n\n  a. For the avoidance of doubt, this Public License does not, and\n     shall not be interpreted to, reduce, limit, restrict, or impose\n     conditions on any use of the Licensed Material that could lawfully\n     be made without permission under this Public License.\n\n  b. To the extent possible, if any provision of this Public License is\n     deemed unenforceable, it shall be automatically reformed to the\n     minimum extent necessary to make it enforceable. If the provision\n     cannot be reformed, it shall be severed from this Public License\n     without affecting the enforceability of the remaining terms and\n     conditions.\n\n  c. No term or condition of this Public License will be waived and no\n     failure to comply consented to unless expressly agreed to by the\n     Licensor.\n\n  d. Nothing in this Public License constitutes or may be interpreted\n     as a limitation upon, or waiver of, any privileges and immunities\n     that apply to the Licensor or You, including from the legal\n     processes of any jurisdiction or authority.\n\n\n=======================================================================\n\nCreative Commons is not a party to its public\nlicenses. Notwithstanding, Creative Commons may elect to apply one of\nits public licenses to material it publishes and in those instances\nwill be considered the “Licensor.” The text of the Creative Commons\npublic licenses is dedicated to the public domain under the CC0 Public\nDomain Dedication. Except for the limited purpose of indicating that\nmaterial is shared under a Creative Commons public license or as\notherwise permitted by the Creative Commons policies published at\ncreativecommons.org/policies, Creative Commons does not authorize the\nuse of the trademark \"Creative Commons\" or any other trademark or logo\nof Creative Commons without its prior written consent including,\nwithout limitation, in connection with any unauthorized modifications\nto any of its public licenses or any other arrangements,\nunderstandings, or agreements concerning use of licensed material. For\nthe avoidance of doubt, this paragraph does not form part of the\npublic licenses.\n\nCreative Commons may be contacted at creativecommons.org.\n\n",
+    "method": "AI-generated and edited by the deck creator",
+    "changes": "Resized to 567 px height and compressed as WebP without cropping. No changes to illustrations.",
+    "mapping": {
+      "m00.jpg": "0.jpg",
+      "m01.jpg": "01.jpg",
+      "m02.jpg": "02.jpg",
+      "m03.jpg": "03.jpg",
+      "m04.jpg": "04.jpg",
+      "m05.jpg": "05.jpg",
+      "m06.jpg": "06.jpg",
+      "m07.jpg": "07.jpg",
+      "m08.jpg": "08.jpg",
+      "m09.jpg": "09.jpg",
+      "m10.jpg": "10.jpg",
+      "m11.jpg": "11.jpg",
+      "m12.jpg": "12.jpg",
+      "m13.jpg": "13.jpg",
+      "m14.jpg": "14.jpg",
+      "m15.jpg": "15.jpg",
+      "m16.jpg": "16.jpg",
+      "m17.jpg": "17.jpg",
+      "m18.jpg": "18.jpg",
+      "m19.jpg": "19.jpg",
+      "m20.jpg": "20.jpg",
+      "m21.jpg": "21.jpg",
+      "p01.jpg": "coins 01.jpg",
+      "p02.jpg": "coins 02.jpg",
+      "p03.jpg": "coins 03.jpg",
+      "p04.jpg": "coins 04.jpg",
+      "p05.jpg": "coins 05.jpg",
+      "p06.jpg": "coins 06.jpg",
+      "p07.jpg": "coins 07.jpg",
+      "p08.jpg": "coins 08.jpg",
+      "p09.jpg": "coins 09.jpg",
+      "p10.jpg": "coins 10.jpg",
+      "p11.jpg": "coins 11.jpg",
+      "p12.jpg": "coins 12.jpg",
+      "p13.jpg": "coins 13.jpg",
+      "p14.jpg": "coins 14.jpg",
+      "c01.jpg": "cups 01.jpg",
+      "c02.jpg": "cups 02.jpg",
+      "c03.jpg": "cups 03.jpg",
+      "c04.jpg": "cups 04.jpg",
+      "c05.jpg": "cups 05.jpg",
+      "c06.jpg": "cups 06.jpg",
+      "c07.jpg": "cups 07.jpg",
+      "c08.jpg": "cups 08.jpg",
+      "c09.jpg": "cups 09.jpg",
+      "c10.jpg": "cups 10.jpg",
+      "c11.jpg": "cups 11.jpg",
+      "c12.jpg": "cups 12.jpg",
+      "c13.jpg": "cups 13.jpg",
+      "c14.jpg": "cups 14.jpg",
+      "s01.jpg": "swords 01.jpg",
+      "s02.jpg": "swords 02.jpg",
+      "s03.jpg": "swords 03.jpg",
+      "s04.jpg": "swords 04.jpg",
+      "s05.jpg": "swords 05.jpg",
+      "s06.jpg": "swords 06.jpg",
+      "s07.jpg": "swords 07.jpg",
+      "s08.jpg": "swords 08.jpg",
+      "s09.jpg": "swords 09.jpg",
+      "s10.jpg": "swords 10.jpg",
+      "s11.jpg": "swords 11.jpg",
+      "s12.jpg": "swords 12.jpg",
+      "s13.jpg": "swords 13.jpg",
+      "s14.jpg": "swords 14.jpg",
+      "w01.jpg": "wands 01.jpg",
+      "w02.jpg": "wands 02.jpg",
+      "w03.jpg": "Wands 03.jpg",
+      "w04.jpg": "wands 04.jpg",
+      "w05.jpg": "wands 05.jpg",
+      "w06.jpg": "wands 06.jpg",
+      "w07.jpg": "wands 07.jpg",
+      "w08.jpg": "wands 08.jpg",
+      "w09.jpg": "wands 09.jpg",
+      "w10.jpg": "wands 10.jpg",
+      "w11.jpg": "wands 11.jpg",
+      "w12.jpg": "wands 12.jpg",
+      "w13.jpg": "wands 13.jpg",
+      "w14.jpg": "wands 14.jpg"
+    },
+    "excluded": "00.jpg is a card back; 03.png, 06a.jpg and 20a.jpg are alternate versions, not additional card identities.",
+    "courtMapping": {
+      "11": "Fledgling / Page",
+      "12": "Wanderer / Knight",
+      "13": "Keeper / Queen",
+      "14": "Elder / King"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 // Bump the shell version when changing the app, manifest, scripts or icons.
 // Include the scope so different GitHub Pages projects cannot clear each other's caches.
 const PREFIX = 'daily-tarot-' + self.registration.scope + '-';
-const SHELL_CACHE = PREFIX + 'shell-v2';
+const SHELL_CACHE = PREFIX + 'shell-v4';
 const CARD_CACHE = PREFIX + 'cards-v1';
 const APP_URL = new URL('./index.html', self.registration.scope).href;
 const ROOT_URL = new URL('./', self.registration.scope);
@@ -12,6 +12,7 @@ const SHELL_URLS = [
   './index.html',
   './manifest.webmanifest',
   './pwa.js',
+  './ui.css',
   './assets/icons/icon-192.png',
   './assets/icons/icon-512.png',
   './assets/icons/apple-touch-icon.png',
@@ -74,7 +75,7 @@ self.addEventListener('fetch', event => {
   if (request.mode === 'navigate' && (url.pathname === ROOT_URL.pathname || url.pathname === new URL(APP_URL).pathname)) {
     event.respondWith(navigation(request));
   } else if (url.pathname.startsWith(DECK_PATH) && /\.(jpg|webp|png)$/.test(url.pathname)) {
-    // Cache only images that the page actually requests. Never prefetch any deck.
+    // Cache requests made by the page, which schedules the selected deck's preload.
     event.respondWith(cachedResource(request, CARD_CACHE));
   } else if (SHELL_URLS.includes(url.href)) {
     event.respondWith(cachedResource(request, SHELL_CACHE));

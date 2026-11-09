@@ -40,7 +40,7 @@ O guia mantém as 78 cartas disponíveis para consulta, mesmo quando a mesa usa 
 1. Baixe o projeto completo, preservando a estrutura de pastas.
 2. Abra [`index.html`](index.html) no navegador.
 3. Clique ou toque em uma carta para iniciar a leitura.
-4. No celular, use **Retirar carta** e a barra inferior; **Mais** reúne configurações e nova leitura. No PC, use a engrenagem, **Diário** e a aba lateral do guia.
+4. No celular, use **Retirar carta** e a barra inferior; **Resetar** permanece na barra inferior; **Mais** reúne as outras ações e deixa **Configurações** por último. No PC, use a engrenagem, **Diário** e a aba lateral do guia.
 
 Não é necessário executar `npm install`, compilar arquivos ou iniciar um backend. Para abrir o arquivo sem internet, mantenha também toda a pasta `assets/` no computador.
 
@@ -50,11 +50,13 @@ A instalação como app e o cache offline da PWA são ativados na versão public
 
 ### Celular
 
-A mesa começa no modo **organizado**: as cartas abertas ficam em uma grade rolável, sem sobreposição. Use **Retirar carta** ou toque no baralho. Ao selecionar uma carta, a barra inferior oferece **Inverter**, **Ampliar** e **Consultar**. Toque no espaço vazio para encerrar a seleção.
+A mesa começa no modo **organizado**: as cartas abertas ficam em uma grade rolável, sem sobreposição. Use **Retirar carta** ou toque no baralho. Ao selecionar uma carta, a barra inferior oferece **Consultar** e **Diário**. A ação **Inverter carta** fica dentro de **Consultar**. **Resetar** fica sempre acessível, sem pedir confirmação. Para ampliar, use duplo toque na carta. Toque no espaço vazio para encerrar a seleção.
 
-**Usar mesa livre**, disponível ao lado do baralho e no menu **Mais**, permite espalhar e arrastar as cartas. **Organizar leitura** volta à grade. A escolha é lembrada neste navegador e não altera a leitura nem os dados do diário.
+O interruptor **Mesa livre**, disponível ao lado do baralho e no menu **Mais**, permite espalhar e arrastar as cartas quando ligado. Desligue-o para voltar à grade. A escolha é lembrada neste navegador e não altera a leitura nem os dados do diário.
 
-**Consultar** abre um painel inferior com o significado da carta na orientação atual. É possível expandi-lo, escolher RPG, buscar outra carta na biblioteca ou acessar **Sim ou não**. Em paisagem, a consulta usa a altura disponível da tela.
+**Consultar** abre um painel compacto sobre parte da mesa, que continua acessível. A biblioteca também começa compacta. **Sim ou não** aparece somente no modo RPG e usa o mesmo painel compacto, inclusive em paisagem; use ↗ para expandir e ↙ para reduzir.
+
+**Tiragem padrão** e **RPG** são modos de jogo globais. Troque pelo menu **Mais**, pelo interruptor **Modo RPG** no PC, pelas abas da consulta ou por **Configurações → Jogo → Modo de jogo**. O interruptor **Modo RPG** ligado ativa RPG; desligado, volta à tiragem padrão. A escolha é lembrada neste navegador e preserva as cartas abertas, o histórico e o rascunho. No RPG, consulta, biblioteca e carta ampliada mostram inspirações narrativas, e o diário passa a registrar cenas. As cinco categorias de inspiração — narrativa, personagem, objeto, local e criatura — aparecem diretamente, sem precisar expandir seções. Novos registros guardam o modo usado; todo o histórico continua disponível nos dois modos.
 
 ### Mouse e toque
 
@@ -81,7 +83,7 @@ Enquanto a ampliação está aberta, a mesa ao fundo não recebe interações. N
 | `Esc` | Fecha o modal ativo ou o guia lateral |
 | `Ctrl` / `⌘` + `Enter` | Salva o registro enquanto escreve no diário |
 
-Os atalhos da mesa não interferem na digitação dos campos de texto. O reset coloca todas as cartas com o verso para cima; ele não apaga os registros do diário.
+Os atalhos da mesa não interferem na digitação dos campos de texto. O reset é imediato, sem confirmação, e coloca todas as cartas com o verso para cima; ele não apaga os registros do diário.
 
 ## Coleções de arte
 

@@ -1,5 +1,6 @@
 # Daily Tarot Adventure
 
+
 <img src="assets/icons/icon-192.png" alt="Ícone do Daily Tarot Adventure: cartas de tarot com lua e estrela sobre fundo verde" width="96" height="96">
 
 Uma mesa virtual de tarot em português para explorar cartas, registrar leituras e criar histórias de RPG. No celular, oferece leitura organizada, controles de toque e consulta contextual. No PC, mantém a mesa livre e os atalhos. Funciona no navegador e pode ser instalada na tela inicial do celular.

@@ -239,12 +239,13 @@ const artDialog=document.getElementById('art-dialog'),journalDialog=document.get
 function selectCard(c){if(selected){selected.el.classList.remove('selected');selected.el.setAttribute('aria-pressed','false')}selected=c;if(c){c.el.classList.add('selected');c.el.setAttribute('aria-pressed','true');c.el.style.zIndex=++z}syncMobileUI();if(!guidePanel.hidden&&guideView==='context')renderGuide()}
 function flipSelected(){if(!selected||!selected.open)return;const c=selected;c.angle=c.angle===180?0:180;const inverted=c.angle===180;c.el.classList.toggle('inverted',inverted);c.el.style.setProperty('--label-angle',inverted?'180deg':'0deg');c.el.dataset.label=c.name+(inverted?' · invertida':'');c.el.setAttribute('aria-label',c.name+(inverted?', invertida':', de pé')+'. Arraste para mover.');paint(c);status.textContent=c.el.getAttribute('aria-label');syncMobileUI();if(!guidePanel.hidden&&guideView==='context')renderGuide();if(artDialog.open)updateArt()}
 function updateArt(){updateArtCredit(selected);const img=document.getElementById('art-image');if(selected.image)img.src=selected.image;else img.removeAttribute('src');document.getElementById('art-stage').classList.toggle('image-loading',Boolean(selected.imageLoading));document.getElementById('art-stage').classList.toggle('image-error',Boolean(selected.imageError));document.getElementById('art-image-status').textContent=selected.imageError?'Imagem indisponível. Feche e toque na carta para tentar novamente.':'Carregando imagem…';img.alt=selected.name;img.style.transform='rotate('+selected.angle+'deg)';document.getElementById('art-caption').textContent=selected.name+(selected.angle===180?' · invertida':' · de pé');const meaning=guideCards.find(c=>c.name===selected.name);document.getElementById('art-summary').textContent=meaning?(settings.playMode==='rpg'?rpgFor(meaning).narrative:selected.angle===180?meaning.reversed:meaning.upright):''}
-function showArt(){if(!selected||!selected.open){status.textContent='Selecione uma carta aberta para ampliar a arte.';return}cancelTableGesture();updateArt();table.inert=true;artDialog.showModal()}
+function showArt(){if(!selected||!selected.open){status.textContent='Selecione uma carta aberta para ampliar a arte.';return}cancelTableGesture();zoomGestureStarted=false;updateArt();table.inert=true;artDialog.showModal()}
 function closeArt(){if(!artDialog.open)return;tableBlockedUntil=Date.now()+450;cancelTableGesture();artDialog.close()}
 const zoomImage=document.getElementById('art-image'),zoomSurface=document.getElementById('art-stage');
-let zoomPointer=null,zoomLastTap=null;
-zoomSurface.addEventListener('dblclick',e=>{e.preventDefault();closeArt()});
-zoomSurface.addEventListener('pointerdown',e=>{if(e.pointerType!=='touch'||!e.isPrimary)return;zoomPointer={id:e.pointerId,x:e.clientX,y:e.clientY,time:Date.now()}});
+let zoomPointer=null,zoomLastTap=null,zoomGestureStarted=false;
+// Ignore a compatibility double-click retargeted from the table after touch opened the modal.
+zoomSurface.addEventListener('dblclick',e=>{e.preventDefault();if(zoomGestureStarted)closeArt()});
+zoomSurface.addEventListener('pointerdown',e=>{if(!e.isPrimary||e.button!==0)return;zoomGestureStarted=true;if(e.pointerType!=='touch')return;zoomPointer={id:e.pointerId,x:e.clientX,y:e.clientY,time:Date.now()}});
 zoomSurface.addEventListener('pointerup',e=>{
  if(!zoomPointer||zoomPointer.id!==e.pointerId)return;
  const start=zoomPointer;zoomPointer=null;const now=Date.now();
@@ -252,9 +253,9 @@ zoomSurface.addEventListener('pointerup',e=>{
  if(zoomLastTap&&now-zoomLastTap.time<350&&Math.hypot(e.clientX-zoomLastTap.x,e.clientY-zoomLastTap.y)<32){e.preventDefault();zoomLastTap=null;closeArt()}
  else zoomLastTap={x:e.clientX,y:e.clientY,time:now};
 });
-zoomSurface.addEventListener('pointercancel',()=>{zoomPointer=null;zoomLastTap=null});
+zoomSurface.addEventListener('pointercancel',()=>{zoomPointer=null;zoomLastTap=null;zoomGestureStarted=false});
 artDialog.addEventListener('cancel',event=>{event.preventDefault();closeArt()});
-artDialog.addEventListener('close',()=>{table.inert=false;tableBlockedUntil=Date.now()+450;cancelTableGesture();zoomPointer=null;zoomLastTap=null;zoomImage.removeAttribute('src')});
+artDialog.addEventListener('close',()=>{table.inert=false;tableBlockedUntil=Date.now()+450;cancelTableGesture();zoomPointer=null;zoomLastTap=null;zoomGestureStarted=false;zoomImage.removeAttribute('src')});
 
 // Escape all user text before rendering the supported Markdown subset; raw HTML is never evaluated.
 function escapeHTML(s){return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;')}

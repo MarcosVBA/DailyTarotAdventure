@@ -3,7 +3,7 @@
 // Bump the shell version when changing the app, manifest, scripts or icons.
 // Include the scope so different GitHub Pages projects cannot clear each other's caches.
 const PREFIX = 'daily-tarot-' + self.registration.scope + '-';
-const SHELL_CACHE = PREFIX + 'shell-v8';
+const SHELL_CACHE = PREFIX + 'shell-v9';
 const CARD_CACHE = PREFIX + 'cards-v1';
 const APP_URL = new URL('./index.html', self.registration.scope).href;
 const ROOT_URL = new URL('./', self.registration.scope);

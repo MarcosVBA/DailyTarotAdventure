@@ -20,7 +20,7 @@ Não é necessário publicar em uma loja para instalar desta forma. Os passos de
 
 O app guarda sua interface e somente as imagens das cartas efetivamente abertas. Nenhum baralho é baixado por inteiro ou antecipadamente. Depois da primeira visita com conexão e da ativação do modo offline, é possível reabrir a mesa, consultar o guia e escrever no diário sem internet. Uma carta que ainda não esteja armazenada precisa de conexão para ser aberta. O armazenamento depende do espaço e das políticas do navegador.
 
-O diário e as preferências continuam no armazenamento local do navegador. Ao publicar uma atualização, incremente `shell-v1` em `sw.js`; o cache das cartas é mantido. Os caches são separados pelo endereço do projeto para não interferirem com outros sites do mesmo domínio.
+O diário e as preferências continuam no armazenamento local do navegador. Ao publicar uma atualização, incremente a versão `shell-v2` em `sw.js`; o cache das cartas é mantido. Os caches são separados pelo endereço do projeto para não interferirem com outros sites do mesmo domínio.
 
 ## Ícone
 
@@ -29,10 +29,10 @@ A imagem original gerada está em `assets/icons/icon-source.png`, com versões P
 ## Carregamento das cartas
 
 - A abertura da página não baixa imagens das cartas.
-- Cada frente é carregada quando a carta é revelada, com uma tela de carregamento.
+- O loading de tela cheia aparece somente na abertura. Durante a partida, as frentes são carregadas em segundo plano, com um indicador na própria carta; a mesa continua interativa.
 - Trocar o baralho atualiza somente as cartas já abertas e preserva a leitura.
 - A galeria usa versos como espaço reservado e reaproveita uma carta já carregada para mostrar a coleção selecionada. Outras coleções não são carregadas antecipadamente.
 - No Oswald Wirth, somente os arcanos menores revelados usam imagens Rider–Waite–Smith, pois a coleção contém apenas os 22 maiores.
-- Se uma imagem falhar, a leitura anterior é preservada e a ação pode ser tentada novamente.
+- Se uma imagem falhar, toque na própria carta para tentar novamente. Resets e trocas de baralho descartam resultados atrasados de carregamentos anteriores.
 
 O diário e as preferências continuam salvos no navegador. Para usar offline abrindo `index.html` diretamente, baixe também toda a pasta `assets/`. Os créditos permanecem no site; os dados das fontes originais estão em `assets/decks/sources.json`.
